@@ -10,7 +10,11 @@
     AwemeFullScreen        抖音全屏-狗哥
     AwemeDisableBar        抖音小净化-狗哥
     AwemeDownloadMedia     无水印下载-狗哥
-    AwemeVideoTime         视频时间进度条-狗哥
+    AwemeVideoTime         抖音视频时间进度条-狗哥
+    CCSIM-Rootless         快速禁用sim卡
+    CCVPN Surge            控制中心VPN开启关闭模块
+    CCPay快捷支付           控制中心添加支付宝微信付款码
+    Oh My Insets           控制中心五列排序
     NoPassAfterRespring    注销免解锁
     RecordPause            相机应用程序中暂停/恢复视频录制。
     PullClearNC            下拉清理通知消息
@@ -45,6 +49,7 @@
     哔哩哔哩NoAds-SWING作者
 </details>
 <details>
+
 <summary>越狱源地址全收集</summary>     
 
     https://trollstorex.github.io/repo/
