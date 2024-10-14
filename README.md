@@ -1,6 +1,6 @@
 最新支付宝购买美区App Store礼品卡
 
-支付宝搜索BuffGift或者-[点击直达](https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021004136649033%26page%3Dpages%252Fwebview%252Fwebview%26enbsv%3D0.2.2405291555.4%26chInfo%3Dch_share__chsub_CopyLink%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26apshareid%3D0BDDA439-C7CC-461B-9F91-64B069815696%26shareBizType%3DH5App_XCX%26shareTimestamp%3D1728732527754)
+支付宝搜索[BuffGift]或者-[点击直达](https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021004136649033%26page%3Dpages%252Fwebview%252Fwebview%26enbsv%3D0.2.2405291555.4%26chInfo%3Dch_share__chsub_CopyLink%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26apshareid%3D0BDDA439-C7CC-461B-9F91-64B069815696%26shareBizType%3DH5App_XCX%26shareTimestamp%3D1728732527754)
 # 一、越狱大全
 <details>
 <summary>个人插件安装列表</summary>  
@@ -120,7 +120,8 @@
 
 [Ataia插件配置](eyJoc19zcGFjaW5nX3giOjE2LjM4NjUzNzU1MTg3OTg4MywiZGlzYWJsZVRhcEdlc3R1cmUiOnRydWUsImhpZGVMYWJlbHMiOmZhbHNlLCJsYXlvdXRFbmFibGVkIjp0cnVlLCJoc19pY29uU2NhbGUiOjAuOTUwMTkwNjAzNzMzMDYyNzQsImZsb2F0aW5nRG9ja1JlY2VudHMiOmZhbHNlLCJzYXZlSWNvblN0YXRlIjpmYWxzZSwiaGlkZUxhYmVsc0FwcExpYnJhcnkiOmZhbHNlLCJzaG93V2VhdGhlckljb24iOmZhbHNlLCJlZGl0b3JPcGVuRnJvbSI6MSwiaGlkZTNEVG91Y2hBY3Rpb25zIjp0cnVlLCJkeW5hbWljV2lkZ2V0U2l6aW5nIjpmYWxzZSwiaHNfd2lkZ2V0SWNvblNjYWxlIjowLjk2MjMyMzM2NzU5NTY3MjYxLCJkaXNhYmxlRG9jayI6ZmFsc2UsImRpc2FibGVBcHBMaWJyYXJ5R2VzdHVyZSI6dHJ1ZSwiaGlkZUxhYmVsc0ZvbGRlcnMiOmZhbHNlLCJkaXNhYmxlVG9kYXlHZXN0dXJlIjpmYWxzZSwic2NhbGVJbnNpZGVGb2xkZXJzIjpmYWxzZSwiaHNfb2Zmc2V0X3RvcCI6MTg2LjcyMzE1OTc5MDAzOTA2LCJoc19yb3dzIjo0LjU1NTA4Mzc1MTY3ODQ2NjgsImhpZGVCYWRnZXMiOmZhbHNlLCJsYWJlbFRleHQiOiIgICAgICIsImVuYWJsZUFwcExpYnJhcnkiOnRydWUsImhzX2NvbHVtbnMiOjUuMDYzNTU4NTc4NDkxMjEwOSwiZG9ja19pY29uU2NhbGUiOjAuOTU4MTAwMzE4OTA4NjkxNDEsImhpZGVQYWdlRG90cyI6dHJ1ZSwiaHNfaW5zZXRfYm90dG9tIjo2Mi40NjQ5NzM0NDk3MDcwMzEsImZvcmNlRmxvYXRpbmdEb2NrIjpmYWxzZSwiZmxvYXRpbmdEb2NrQXBwTGlicmFyeSI6ZmFsc2UsImhzX2luc2V0X3RvcCI6MTQxLjQ1NjU3MzQ4NjMyODEyLCJzaG93V2VsY29tZSI6ZmFsc2UsImRvY2tfY29sdW1ucyI6NC4zMjYyNzA1ODAyOTE3NDh9)
 </details>
-[电话助手时间格式]({格式=HH:mm:ss,大小=15}{换行=1}{格式=MM月dd日,大小=14} {格式= E,大小=13,加粗=1,文字颜色=#FF8727 }
+[电话助手时间格式]
+({格式=HH:mm:ss,大小=15}{换行=1}{格式=MM月dd日,大小=14} {格式= E,大小=13,加粗=1,文字颜色=#FF8727 }
 )
 
 # 二、个人收集TG频道
