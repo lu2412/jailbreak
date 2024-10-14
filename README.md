@@ -15,7 +15,13 @@
     3-InternalStorageSettings 启用隐藏储存空间的插件，可以查看系统数据的详细
     https://nathan4s.lol/repo/
     
-    4-
+    4-NotRecording 伪装屏幕录制检测！
+    https://opa334.github.io/
+
+    5-Trim 降低软件底栏高度
+    https://repo.igerman.cc/
+
+    
 
 
 </details>
@@ -131,6 +137,8 @@
     https://www.yourepo.com/
     https://invalidunit.github.io/repo/
     https://zerui18.github.io/zx02/
+    https://repo.keycap.one/
+    https://repo.igerman.cc/
 </details>
 <details>
 <summary>我的插件配置备份</summary>
