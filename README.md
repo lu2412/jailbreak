@@ -53,6 +53,18 @@
     一键锁屏
     哔哩哔哩NoAds-SWING作者
 </details>
+
+<summary>好用插件收集</summary>  
+
+1-RecordPause 录像暂停 
+    
+    https://poomsmart.github.io/repo/
+
+
+
+
+
+
 <details>
 
 <summary>越狱源地址全收集</summary>     
