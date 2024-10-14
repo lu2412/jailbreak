@@ -27,6 +27,8 @@
     7-SkinnyMenu 从菜单中删除共享和查找
     https://www.yourepo.com/
 
+    8-AnyKeyTrackpad 长按键盘任意位置即可移动光标
+    https://havoc.app/
     
 
 
