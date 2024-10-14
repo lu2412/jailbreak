@@ -24,6 +24,8 @@
     6-KeySwipe 键盘上下滑动来切换键盘
     https://anubistweaks.github.io/
     
+    7-SkinnyMenu 从菜单中删除共享和查找
+    https://www.yourepo.com/
 
     
 
