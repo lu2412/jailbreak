@@ -32,6 +32,8 @@
     PurifyLine             去除全局分割线
     OneSettings            设置美化归类
     atria                  主屏幕图标布局
+    Reality tmp            将越狱的tmp目录指向tmp以防止日渐增加的垃圾缓存文件。
+    Move Icon Image Cache  将系统图标图片缓存文件夹重定向到/tmp
     
     抖音图层
     小红书图层
