@@ -85,6 +85,8 @@
     电话助手
     一键锁屏
     哔哩哔哩NoAds-SWING作者
+    酷安净化
+    Talkatone去广告
 </details>
 <details>
 
