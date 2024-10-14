@@ -3,6 +3,23 @@
 支付宝搜索[ BuffGift ]或者-[点击直达](https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021004136649033%26page%3Dpages%252Fwebview%252Fwebview%26enbsv%3D0.2.2405291555.4%26chInfo%3Dch_share__chsub_CopyLink%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26apshareid%3D0BDDA439-C7CC-461B-9F91-64B069815696%26shareBizType%3DH5App_XCX%26shareTimestamp%3D1728732527754)
 # 一、越狱大全
 <details>
+
+<summary>好用插件收集列表</summary>  
+
+    1-RecordPause 录像暂停 
+    https://poomsmart.github.io/repo/
+
+    2-LoopVideos 照片视频循环播放
+    https://nahtedetihw.github.io/
+
+    3-InternalStorageSettings 启用隐藏储存空间的插件，可以查看系统数据的详细
+    https://nathan4s.lol/repo/
+    
+    4-
+
+
+</details>
+<details>
 <summary>个人插件安装列表</summary>  
   
     SquidGesture Pro       手势插件
@@ -52,24 +69,6 @@
     电话助手
     一键锁屏
     哔哩哔哩NoAds-SWING作者
-</details>
-<details>
-<summary>好用插件收集列表</summary>  
-
-    1-RecordPause 录像暂停 
-    https://poomsmart.github.io/repo/
-
-    2-LoopVideos 照片视频循环播放
-    https://nahtedetihw.github.io/
-
-    3-InternalStorageSettings 启用隐藏储存空间的插件，可以查看系统数据的详细
-    https://nathan4s.lol/repo/
-    
-    4-
-
-
-
-
 </details>
 <details>
 
