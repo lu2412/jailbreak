@@ -21,6 +21,10 @@
     5-Trim 降低软件底栏高度
     https://repo.igerman.cc/
 
+    6-KeySwipe 键盘上下滑动来切换键盘
+    https://anubistweaks.github.io/
+    
+
     
 
 
@@ -139,6 +143,8 @@
     https://zerui18.github.io/zx02/
     https://repo.keycap.one/
     https://repo.igerman.cc/
+    https://anubistweaks.github.io/
+
 </details>
 <details>
 <summary>我的插件配置备份</summary>
