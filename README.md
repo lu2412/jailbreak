@@ -49,32 +49,32 @@
 <details>
 <summary>Dopamine挂载路径</summary>  
 
-1-音效路径(挂载)相机音效文件为路径下/Audio/UISounds
+音效路径(挂载)相机音效文件为路径下/Audio/UISounds
     
     /System/Library/Audio/UISounds/
 
-2-系统字体(挂载)
+系统字体(挂载)
    
     /System/Library/Fonts/
-
-3-真皮2.2版本挂载字体新路径
-
-    /var/jb/mnt/system/Library/Fonts
-
-4-注销动画路径(挂载)
+注销动画路径(挂载)
 
     /System/Library/PrivateFrameworks/BackBoardServices.framework/
 
-5-微信内通知提示音更换路径1：
+
+真皮2.2版本挂载字体新路径
+
+    /var/jb/mnt/system/Library/Fonts
+
+
+微信内通知提示音更换路径1：
 
     /var/containers/Bundle/Application/微信/WeChat.app
-6-微信外通知提示音更换路径2：
+微信外通知提示音更换路径2：
 
-    /var/mobile/Containers/Data/Application/微信/Library/Sounds
-7-SnowBoard滑雪板主题
+    /var/mobile/Containers/Data/Application/微信/Library/SoundsSnowBoard滑雪板主题
     
     var/jb/Library/Themes
-8-百度网盘下载路径
+百度网盘下载路径
 
     /var/mobile/Containers/Data/Application/百度网盘/Documents/英文随机目录/Cache
 
