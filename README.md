@@ -52,7 +52,12 @@
 
     /System/Library/PrivateFrameworks/BackBoardServices.framework/
 
+5-微信内通知提示音更换路径1：
 
+    /var/containers/Bundle/Application/微信/WeChat.app
+6-微信外通知提示音更换路径2：
+
+    /var/mobile/Containers/Data/Application/微信/Library/Sounds
 </details>
 <details>
 <summary>个人插件安装列表</summary>  
