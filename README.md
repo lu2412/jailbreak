@@ -60,6 +60,9 @@
     18-AwemeVideoTime 抖音视频时间进度条-狗哥
     https://jailrepo.initnil.com/
 
+    19-LPMNotification 移除低于20%电量警告弹窗，改为横幅通知。
+    https://sugiuta.github.io/repo/
+
 </details>
 <details>
 <summary>Dopamine挂载路径</summary>  
@@ -212,6 +215,7 @@
     https://repo.keycap.one/
     https://repo.igerman.cc/
     https://anubistweaks.github.io/
+    https://sugiuta.github.io/repo/
 
 </details>
 <details>
