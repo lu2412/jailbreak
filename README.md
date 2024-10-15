@@ -30,7 +30,7 @@
     8-AnyKeyTrackpad 长按键盘任意位置即可移动光标
     https://havoc.app/
     
-    9-InstaLauncher2 [侧边栏快速启动器](https://mp.weixin.qq.com/s/9HmfhMYfq_0KNNl1ct2t9A)
+    9-[InstaLauncher2](https://mp.weixin.qq.com/s/9HmfhMYfq_0KNNl1ct2t9A) 侧边栏快速启动器
     https://havoc.app/
 
 
