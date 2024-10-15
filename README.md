@@ -49,7 +49,7 @@
 <details>
 <summary>Dopamine挂载路径</summary>  
 
-音效路径(挂载)相机音效文件为路径下/Audio/UISounds
+-音效路径(挂载)相机音效文件为路径下/Audio/UISounds
     
     /System/Library/Audio/UISounds/
 
