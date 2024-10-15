@@ -33,6 +33,14 @@
 
 
 </details>
+
+<summary>多巴胺越狱挂载路径</summary>  
+1-音效路径
+    
+    /System/Library/Audio/UISounds/
+
+
+</details>
 <details>
 <summary>个人插件安装列表</summary>  
   
