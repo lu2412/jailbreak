@@ -45,6 +45,21 @@
     13-OneSettings 设置归类3
     https://havoc.app/
 
+    14-NoRedirect 禁字诀🈲️阻止指定的应用跳转
+    https://havoc.app/
+    
+    15-AwemeFullScreen 抖音全屏-狗哥
+    https://jailrepo.initnil.com/
+    
+    16-AwemeDisableBar  抖音小净化-狗哥
+    https://jailrepo.initnil.com/
+
+    17-AwemeDownloadMedia  无水印下载-狗哥
+    https://jailrepo.initnil.com/
+    
+    18-AwemeVideoTime 抖音视频时间进度条-狗哥
+    https://jailrepo.initnil.com/
+
 </details>
 <details>
 <summary>Dopamine挂载路径</summary>  
@@ -89,11 +104,6 @@
     SquidExtender          键盘增强
     Hammer It              文字大爆炸
     CopyVault              剪贴板增强
-    NoRedirect             禁字诀
-    AwemeFullScreen        抖音全屏-狗哥
-    AwemeDisableBar        抖音小净化-狗哥
-    AwemeDownloadMedia     无水印下载-狗哥
-    AwemeVideoTime         抖音视频时间进度条-狗哥
     CCSIM-Rootless         快速禁用sim卡
     CCVPN Surge            控制中心VPN开启关闭模块
     CCPay快捷支付           控制中心添加支付宝微信付款码
