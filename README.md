@@ -34,11 +34,23 @@
 
 </details>
 <details>
-<summary>Dopamine 挂载路径</summary>  
+<summary>Dopamine挂载路径</summary>  
 
 1-音效路径
     
     /System/Library/Audio/UISounds/
+
+2-系统字体
+   
+    /System/Library/Fonts/
+
+3-真皮2.2版本挂载字体新路径
+
+    /var/jb/mnt/system/Library/Fonts
+
+4-注销动画路径
+
+    /System/Library/PrivateFrameworks/BackBoardServices.framework/
 
 
 </details>
