@@ -108,6 +108,7 @@
     Reality tmp            将越狱的tmp目录指向tmp以防止日渐增加的垃圾缓存文件。
     Move Icon Image Cache  将系统图标图片缓存文件夹重定向到/tmp
     AnyKeyTrackpad         长按键盘任意位置即可移动光标
+    CCSwitchData-Rootless  双卡蜂窝快速切换
 
 
     抖音图层
