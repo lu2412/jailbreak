@@ -30,9 +30,20 @@
     8-AnyKeyTrackpad 长按键盘任意位置即可移动光标
     https://havoc.app/
     
-    9-[InstaLauncher2](https://mp.weixin.qq.com/s/9HmfhMYfq_0KNNl1ct2t9A) 侧边栏快速启动器
+    9-InstaLauncher2 侧边栏快速启动器
     https://havoc.app/
+    
+    10-PullOver Pro侧边分屏
+    https://jailrepo.initnil.com/
 
+    11-Shuffle 设置归类
+    https://creaturecoding.com/repo/
+
+    12-SettingsRevamp 设置归类2
+    https://xiangfeidexiaohuo.github.io/
+
+    13-OneSettings 设置归类3
+    https://havoc.app/
 
 </details>
 <details>
