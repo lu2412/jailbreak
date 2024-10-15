@@ -221,10 +221,23 @@
 
     {"isConnectivityGroupingEnabled":true,"isBoldTitle":false,"isTitleVisible":false,"isTopMenuConfirmationEnabled":false,"circleIconValue":8,"isIPForWifiCellEnabled":false,"isDefaultTweakIconEnabled":false,"groupTweaksEnabled":true,"tableViewCellInset":20,"advancedStorageDetails":false,"isAccountIconDisabled":false,"isBannerEnabled":true,"tableViewLabelsEnabled":true,"isCustomDetailLabelColor":false,"isBannerSpacerEnabled":true,"isStockiCloudPfpHidden":false,"disableSelectedBackground":true,"isCircleIcons":false,"isWhatJailbreakEnabled":false,"roundCornersCustomize":15,"bannerHeight":202,"tableViewCellHeight":66,"colorTopLabel":"#000000FF","stockiCloud":true,"colorBottomLabel":"#000000FF","isCenterLabels":false,"titleValue":"今年的冬天早早到了","isSearchIconDisabled":false,"isTopMenuEnabled":false,"isGeneralGroupingEnabled":false,"isOtherAccountButtonStyleEnabled":false,"iCloudPfP":false,"colorDetail":"#000000FF","isAmountOfStorageForGeneralEnabled":false,"isDetailLabelEnabled":false,"centerTitle":false,"isCustomTableCellCustomizabilityEnabled":true,"groupSystemAppsEnabled":true,"groupThirdPartyAppsEnabled":true,"isCustomLabelColor":false,"isSmallTitle":true,"isNotificationsGroupingEnabled":false}
 
-4-Hammer It 百度翻译API
+4-CopyVault激活码
+  
+    COPYVAULT-4KEQLC5JJL2PRZ8IEX6EXNWJGV5XL21K
 
-    百度翻译appid: 20230527001691447   
-    百度翻译appkey:W0CfAItUvZYR2ZijjW0w
+5-SquidGesture Pro激活码
+
+    SQUIDGESTUREPRO-0RCUKVZ5MOAZH8TW7W0N3Z4HYT0NOO0Q
+
+6-SquidExtender激活码
+
+    SQUIDEXTENDER-TD13QBBYZUKZDPKCZ4E560HJXET9B40I
+
+7-电话助手激活码
+
+    zspay202402092011367230
+
+5-
 </details>
 
 # 二、个人收集TG频道
