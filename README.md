@@ -34,7 +34,7 @@
 
 </details>
 <details>
-<summary>多巴胺越狱挂载路径</summary>  
+<summary>Dopamine 挂载路径</summary>  
 
 1-音效路径
     
