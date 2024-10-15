@@ -221,6 +221,10 @@
 
     {"isConnectivityGroupingEnabled":true,"isBoldTitle":false,"isTitleVisible":false,"isTopMenuConfirmationEnabled":false,"circleIconValue":8,"isIPForWifiCellEnabled":false,"isDefaultTweakIconEnabled":false,"groupTweaksEnabled":true,"tableViewCellInset":20,"advancedStorageDetails":false,"isAccountIconDisabled":false,"isBannerEnabled":true,"tableViewLabelsEnabled":true,"isCustomDetailLabelColor":false,"isBannerSpacerEnabled":true,"isStockiCloudPfpHidden":false,"disableSelectedBackground":true,"isCircleIcons":false,"isWhatJailbreakEnabled":false,"roundCornersCustomize":15,"bannerHeight":202,"tableViewCellHeight":66,"colorTopLabel":"#000000FF","stockiCloud":true,"colorBottomLabel":"#000000FF","isCenterLabels":false,"titleValue":"今年的冬天早早到了","isSearchIconDisabled":false,"isTopMenuEnabled":false,"isGeneralGroupingEnabled":false,"isOtherAccountButtonStyleEnabled":false,"iCloudPfP":false,"colorDetail":"#000000FF","isAmountOfStorageForGeneralEnabled":false,"isDetailLabelEnabled":false,"centerTitle":false,"isCustomTableCellCustomizabilityEnabled":true,"groupSystemAppsEnabled":true,"groupThirdPartyAppsEnabled":true,"isCustomLabelColor":false,"isSmallTitle":true,"isNotificationsGroupingEnabled":false}
 
+4-Hammer It 百度翻译API
+
+    百度翻译appid: 20230527001691447   
+    百度翻译appkey:W0CfAItUvZYR2ZijjW0w
 </details>
 
 # 二、个人收集TG频道
