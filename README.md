@@ -78,9 +78,9 @@
     https://repo.icrazeios.com/
 
  
-    
-</details
+    </details
 <details>
+
 <summary>抖音类插件</summary>
 
     AwemeFullScreen 抖音全屏-狗哥
@@ -106,6 +106,7 @@
 
 </details
 <details>
+
 <summary>其它类插件</summary>
     
     RecordPause 录像暂停 
