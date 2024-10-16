@@ -10,6 +10,12 @@
 
     dockX 键盘底部增强(这个比较好用)
     https://lclrc.github.io/repo/
+
+    CopyVault 键盘增强之剪贴板
+    https://havoc.app/
+
+    Kayoko(82修复版)键盘增强之剪贴板
+    https://xiangfeidexiaohuo.github.io/
     
     ActionBar键盘 在键盘底部执行撤消、重做、全选、复制、剪切和粘贴操作。
     https://invalidunit.github.io/netskao-archive/
@@ -20,6 +26,9 @@
     UnderDock 键盘底部增强
     https://havoc.app/
 
+    SwipeExtenderX 键盘增强(最强)
+    https://miro92.com/repo/
+
     KeySwipe 键盘上下滑动来切换键盘
     https://anubistweaks.github.io/
     
@@ -29,7 +38,26 @@
     AnyKeyTrackpad 长按键盘任意位置即可移动光标
     https://havoc.app/
 
+    Barmoji 键盘底部增加表情和隐藏地球功能
+    https://xiangfeidexiaohuo.github.io/
+
+    FastDeleteKey 键盘上自定义字符删除速度加快！
+    boss源(自带源)
+
+    AutoFillFix 修复无法自动填充验证码的问题
+    https://p2kdev.github.io/repo
+
+    TapticBoard 为原生键盘添加震动📳
+    	https://p2kdev.github.io/repo
+
+
+
+    
+    
 </details
+    
+<details>
+<summary>其它类插件</summary>
     
     RecordPause 录像暂停 
     https://poomsmart.github.io/repo/
