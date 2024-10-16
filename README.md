@@ -5,21 +5,8 @@
 <details>
 
 <summary>好用插件收集列表</summary>  
-
-    RecordPause 录像暂停 
-    https://poomsmart.github.io/repo/
-
-    LoopVideos 照片视频循环播放
-    https://nahtedetihw.github.io/
-
-    InternalStorageSettings 启用隐藏储存空间的插件，可以查看系统数据的详细
-    https://nathan4s.lol/repo/
-    
-    NotRecording 伪装屏幕录制检测！
-    https://opa334.github.io/
-
-    Trim 降低软件底栏高度
-    https://repo.igerman.cc/
+<details>
+<summary>键盘类插件</summary>
 
     dockX 键盘底部增强(这个比较好用)
     https://lclrc.github.io/repo/
@@ -41,6 +28,23 @@
 
     AnyKeyTrackpad 长按键盘任意位置即可移动光标
     https://havoc.app/
+
+</details
+    RecordPause 录像暂停 
+    https://poomsmart.github.io/repo/
+
+    LoopVideos 照片视频循环播放
+    https://nahtedetihw.github.io/
+
+    InternalStorageSettings 启用隐藏储存空间的插件，可以查看系统数据的详细
+    https://nathan4s.lol/repo/
+    
+    NotRecording 伪装屏幕录制检测！
+    https://opa334.github.io/
+
+    Trim 降低软件底栏高度
+    https://repo.igerman.cc/
+
     
     InstaLauncher2 侧边栏快速启动器
     https://havoc.app/
