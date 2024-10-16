@@ -4,8 +4,7 @@
 # 一、越狱大全
 <details>
 <summary>插件分类列表大全</summary>
- <details>
-<summary>1-键盘类插件</summary>
+1-键盘类插件
 
     dockX 键盘底部增强(这个比较好用)
     https://lclrc.github.io/repo/
@@ -77,9 +76,8 @@
     https://repo.icrazeios.com/
 
 
- </details>
- <details>
-<summary>2-抖音类插件</summary>
+
+2-抖音类插件
 
     AwemeFullScreen 抖音全屏-狗哥
     https://jailrepo.initnil.com/
@@ -109,10 +107,8 @@
     https://trollstorex.github.io/repo/
 
     
-</details>
 
-<details>
-<summary>3-系统设置插件</summary>
+3-系统设置插件
 
     Shuffle 设置归类
     https://creaturecoding.com/repo/
@@ -142,10 +138,7 @@
     https://brendonjkding.github.io/
 
 
-    
-</details>
-<details>
-<summary>4-桌面主屏幕插件</summary>
+4-桌面主屏幕插件
 
     atria 桌面布局增强
     https://repo.chariz.com/
@@ -157,9 +150,7 @@
     https://www.yourepo.com/
 
 
-</details>
-<details>
-<summary>5-其它类插件</summary>
+5-其它类插件
     
     RecordPause 录像暂停 
     https://poomsmart.github.io/repo/
@@ -183,7 +174,7 @@
     https://havoc.app/
     
 
-</details>
+
 </details>
 <details>
 <summary>Dopamine挂载路径</summary>  
