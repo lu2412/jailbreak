@@ -79,7 +79,6 @@
 
  
 
-</details
 <details>
 <summary>抖音类插件</summary>
 
