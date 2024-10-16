@@ -48,7 +48,34 @@
     https://p2kdev.github.io/repo
 
     TapticBoard 为原生键盘添加震动📳
-    	https://p2kdev.github.io/repo
+    https://p2kdev.github.io/repo
+
+    ClassicKeyboardX 自定义X键盘底部的高度、地球底部的高度等。
+    https://jailrepo.initnil.com/
+
+    SmallBoard 缩小带凹槽设备上的键盘间隙
+    https://repo.icrazeios.com/
+
+    Laetus 键盘美化主题插件
+    https://sparkdev.me/
+
+    ADKeyboard 使键盘颜色适应应用程序颜色。
+    https://dcsyhi1998.github.io/
+
+    SilentKeyPods 连接AirPods时将键盘声音静音（也可能是其他蓝牙耳机）。
+    https://repo.icrazeios.com/
+
+    AnywherePredict 随时随地使用预测键盘。
+    https://anubistweaks.github.io/
+
+    HideKBSettings 从球形按钮切换器中隐藏“键盘设置”
+    https://cydia.ichitaso.com/
+
+    NoKeyboardSettingsgs 隐藏键盘设置和缩小键盘设置。 
+    https://brendonjkding.github.io/
+
+    Favemoji 将“常用”表情符号替换为自定义收藏夹。还允许您更改最近表情符号的数量。
+    https://repo.icrazeios.com/
 
 
 
