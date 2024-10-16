@@ -143,6 +143,20 @@
     
 </details>
 <details>
+<summary>桌面主屏幕插件</summary>
+
+    atria 桌面布局增强
+    https://repo.chariz.com/
+
+    SnowBoard 滑雪板桌面图标设置ui美化
+    https://sparkdev.me/
+
+    fuckbluedots 更新后隐藏应用程序图标旁边的蓝点。
+    https://www.yourepo.com/
+
+
+</details>
+<details>
 <summary>其它类插件</summary>
     
     RecordPause 录像暂停 
