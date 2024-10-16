@@ -392,3 +392,23 @@
     https://t.me/recommend3
 
 </details>
+# 三、loon个人配置记录
+<details>
+<summary>常用app分流规则</summary>
+1-微博IP分流
+    
+    https://whatshub.top/rule/Weibo.list
+2-抖音IP分流
+
+    https://whatshub.top/rule/DouYin.list
+3-Talkatone分流
+
+    https://raw.githubusercontent.com/Repcz/Tool/X/Loon/Rules/Talkatone.list
+4-google voice分流
+
+    https://whatshub.top/rule/GoogleVoice.list
+4-Spotify分流
+
+    https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Spotify/Spotify.list
+
+</details
