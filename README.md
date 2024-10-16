@@ -6,7 +6,6 @@
 
 <summary>好用插件收集列表</summary>  
 <details>
-**插件分类**
 <summary>键盘类插件</summary>
 
     dockX 键盘底部增强(这个比较好用)
@@ -78,12 +77,34 @@
     Favemoji 将“常用”表情符号替换为自定义收藏夹。还允许您更改最近表情符号的数量。
     https://repo.icrazeios.com/
 
-
-
-    
+ 
     
 </details
+<details>
+<summary>抖音类插件</summary>
+
+    AwemeFullScreen 抖音全屏-狗哥
+    https://jailrepo.initnil.com/
     
+    AwemeDisableBar  抖音小净化-狗哥
+    https://jailrepo.initnil.com/
+
+    AwemeDownloadMedia  无水印下载-狗哥
+    https://jailrepo.initnil.com/
+    
+    AwemeVideoTime 抖音视频时间进度条-狗哥
+    https://jailrepo.initnil.com/
+
+    抖音豆包助手 抖音增强插件
+    https://byg.iosios.net/
+
+    抖音图层 抖音功能增强
+    https://flyx099.github.io/repo/
+    
+    DYYY-(huami)又叫抖音优化
+    https://byg.iosios.net/
+
+</details
 <details>
 <summary>其它类插件</summary>
     
@@ -102,7 +123,6 @@
     Trim 降低软件底栏高度
     https://repo.igerman.cc/
 
-    
     InstaLauncher2 侧边栏快速启动器
     https://havoc.app/
     
@@ -121,18 +141,7 @@
     NoRedirect 禁字诀🈲️阻止指定的应用跳转
     https://havoc.app/
     
-    AwemeFullScreen 抖音全屏-狗哥
-    https://jailrepo.initnil.com/
     
-    AwemeDisableBar  抖音小净化-狗哥
-    https://jailrepo.initnil.com/
-
-    AwemeDownloadMedia  无水印下载-狗哥
-    https://jailrepo.initnil.com/
-    
-    AwemeVideoTime 抖音视频时间进度条-狗哥
-    https://jailrepo.initnil.com/
-
     LPMNotification 移除低于20%电量警告弹窗，改为横幅通知。
     https://sugiuta.github.io/repo/
 
