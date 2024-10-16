@@ -5,6 +5,7 @@
 <details>
 
 <summary>好用插件收集列表</summary>  
+各种插件分类大全
 <details>
 <summary>键盘类插件</summary>
 
