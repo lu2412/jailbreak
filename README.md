@@ -111,28 +111,9 @@
 
     
 </details>
-<summary>其它类插件</summary>
-    
-    RecordPause 录像暂停 
-    https://poomsmart.github.io/repo/
 
-    LoopVideos 照片视频循环播放
-    https://nahtedetihw.github.io/
-
-    InternalStorageSettings 启用隐藏储存空间的插件，可以查看系统数据的详细
-    https://nathan4s.lol/repo/
-    
-    NotRecording 伪装屏幕录制检测！
-    https://opa334.github.io/
-
-    Trim 降低软件底栏高度
-    https://repo.igerman.cc/
-
-    InstaLauncher2 侧边栏快速启动器
-    https://havoc.app/
-    
-    PullOver Pro侧边分屏
-    https://jailrepo.initnil.com/
+<details>
+<summary>系统设置插件</summary>
 
     Shuffle 设置归类
     https://creaturecoding.com/repo/
@@ -143,12 +124,51 @@
     OneSettings 设置归类3
     https://havoc.app/
 
+    QuickPrefs 从3D触摸菜单快速访问设置首选项
+    https://repo.anthopak.dev/
+
+    iKSettings 设置界面美化
+    boss源(自带源)
+
+    InternalStorageSettings 启用隐藏储存空间的插件，可以查看系统数据的详细
+    https://nathan4s.lol/repo/
+
+    LPMNotification 移除低于20%电量警告弹窗，改为横幅通知。
+    https://sugiuta.github.io/repo/
+
+    Trim 降低软件底栏高度
+    https://repo.igerman.cc/
+
+    NoPastedFrom 隐藏粘贴提示
+    https://brendonjkding.github.io/
+
+
+    
+</details>
+<summary>其它类插件</summary>
+    
+    RecordPause 录像暂停 
+    https://poomsmart.github.io/repo/
+
+    LoopVideos 照片视频循环播放
+    https://nahtedetihw.github.io/
+
+    
+    NotRecording 伪装屏幕录制检测！
+    https://opa334.github.io/
+
+
+    InstaLauncher2 侧边栏快速启动器
+    https://havoc.app/
+    
+    PullOver Pro侧边分屏
+    https://jailrepo.initnil.com/
+
+
     NoRedirect 禁字诀🈲️阻止指定的应用跳转
     https://havoc.app/
     
     
-    LPMNotification 移除低于20%电量警告弹窗，改为横幅通知。
-    https://sugiuta.github.io/repo/
 
 </details>
 <details>
