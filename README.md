@@ -103,6 +103,13 @@
     DYYY-(huami)又叫抖音优化
     https://byg.iosios.net/
 
+    TitCock 下载内容，删除广告，没有越狱检测，隐藏LIVE（也许），美国地区。侧载兼容，只需注入即可。
+    https://repo.igerman.cc/
+
+    移除TikTok+按钮 去除➕号
+    https://trollstorex.github.io/repo/
+
+    
 </details>
 <summary>其它类插件</summary>
     
