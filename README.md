@@ -145,6 +145,7 @@
 
     
 </details>
+<details>
 <summary>其它类插件</summary>
     
     RecordPause 录像暂停 
@@ -167,7 +168,6 @@
 
     NoRedirect 禁字诀🈲️阻止指定的应用跳转
     https://havoc.app/
-    
     
 
 </details>
