@@ -6,61 +6,73 @@
 
 <summary>好用插件收集列表</summary>  
 
-    1-RecordPause 录像暂停 
+    RecordPause 录像暂停 
     https://poomsmart.github.io/repo/
 
-    2-LoopVideos 照片视频循环播放
+    LoopVideos 照片视频循环播放
     https://nahtedetihw.github.io/
 
-    3-InternalStorageSettings 启用隐藏储存空间的插件，可以查看系统数据的详细
+    InternalStorageSettings 启用隐藏储存空间的插件，可以查看系统数据的详细
     https://nathan4s.lol/repo/
     
-    4-NotRecording 伪装屏幕录制检测！
+    NotRecording 伪装屏幕录制检测！
     https://opa334.github.io/
 
-    5-Trim 降低软件底栏高度
+    Trim 降低软件底栏高度
     https://repo.igerman.cc/
 
-    6-KeySwipe 键盘上下滑动来切换键盘
+    dockX 键盘底部增强(这个比较好用)
+    https://lclrc.github.io/repo/
+    
+    ActionBar键盘 在键盘底部执行撤消、重做、全选、复制、剪切和粘贴操作。
+    https://invalidunit.github.io/netskao-archive/
+
+    KBapp 键盘底部增强
+    https://dcsyhi1998.github.io/
+
+    UnderDock 键盘底部增强
+    https://havoc.app/
+
+    KeySwipe 键盘上下滑动来切换键盘
     https://anubistweaks.github.io/
     
-    7-SkinnyMenu 从菜单中删除共享和查找
+    SkinnyMenu 从菜单中删除共享和查找
     https://www.yourepo.com/
 
-    8-AnyKeyTrackpad 长按键盘任意位置即可移动光标
+    AnyKeyTrackpad 长按键盘任意位置即可移动光标
     https://havoc.app/
     
-    9-InstaLauncher2 侧边栏快速启动器
+    InstaLauncher2 侧边栏快速启动器
     https://havoc.app/
     
-    10-PullOver Pro侧边分屏
+    PullOver Pro侧边分屏
     https://jailrepo.initnil.com/
 
-    11-Shuffle 设置归类
+    Shuffle 设置归类
     https://creaturecoding.com/repo/
 
-    12-SettingsRevamp 设置归类2
+    SettingsRevamp 设置归类2
     https://xiangfeidexiaohuo.github.io/
 
-    13-OneSettings 设置归类3
+    OneSettings 设置归类3
     https://havoc.app/
 
-    14-NoRedirect 禁字诀🈲️阻止指定的应用跳转
+    NoRedirect 禁字诀🈲️阻止指定的应用跳转
     https://havoc.app/
     
-    15-AwemeFullScreen 抖音全屏-狗哥
+    AwemeFullScreen 抖音全屏-狗哥
     https://jailrepo.initnil.com/
     
-    16-AwemeDisableBar  抖音小净化-狗哥
+    AwemeDisableBar  抖音小净化-狗哥
     https://jailrepo.initnil.com/
 
-    17-AwemeDownloadMedia  无水印下载-狗哥
+    AwemeDownloadMedia  无水印下载-狗哥
     https://jailrepo.initnil.com/
     
-    18-AwemeVideoTime 抖音视频时间进度条-狗哥
+    AwemeVideoTime 抖音视频时间进度条-狗哥
     https://jailrepo.initnil.com/
 
-    19-LPMNotification 移除低于20%电量警告弹窗，改为横幅通知。
+    LPMNotification 移除低于20%电量警告弹窗，改为横幅通知。
     https://sugiuta.github.io/repo/
 
 </details>
