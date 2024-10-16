@@ -75,6 +75,8 @@
     Favemoji 将“常用”表情符号替换为自定义收藏夹。还允许您更改最近表情符号的数量。
     https://repo.icrazeios.com/
 
+    LazyCursor 隐藏或禁止输入光标闪烁还有光标着色，
+    boss源(自带源)
 
 
 2-抖音类插件
