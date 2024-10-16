@@ -2,6 +2,8 @@
 
 支付宝搜索[ BuffGift ]或者-[点击直达](https://render.alipay.com/p/s/i/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D2021004136649033%26page%3Dpages%252Fwebview%252Fwebview%26enbsv%3D0.2.2405291555.4%26chInfo%3Dch_share__chsub_CopyLink%26fxzjshareChinfo%3Dch_share__chsub_CopyLink%26apshareid%3D0BDDA439-C7CC-461B-9F91-64B069815696%26shareBizType%3DH5App_XCX%26shareTimestamp%3D1728732527754)
 # 一、越狱大全
+<details>
+<summary>插件分类大全</summary>
  <details>
 <summary>键盘类插件</summary>
 
@@ -181,7 +183,7 @@
     https://havoc.app/
     
 
-
+</details>
 </details>
 <details>
 <summary>Dopamine挂载路径</summary>  
