@@ -77,8 +77,7 @@
     Favemoji 将“常用”表情符号替换为自定义收藏夹。还允许您更改最近表情符号的数量。
     https://repo.icrazeios.com/
 
- 
-
+</details
 <details>
 <summary>抖音类插件</summary>
 
