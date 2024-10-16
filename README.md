@@ -151,6 +151,9 @@
     fuckbluedots 更新后隐藏应用程序图标旁边的蓝点。
     https://www.yourepo.com/
 
+    WireDock 桌面dock添加轮廓
+    https://cydiageek.yourepo.com/
+
 
 5-其它类插件
     
