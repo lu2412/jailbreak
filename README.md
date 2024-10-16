@@ -5,7 +5,7 @@
 <details>
 
 <summary>好用插件收集列表</summary>  
-<details>
+ <details>
 <summary>键盘类插件</summary>
 
     dockX 键盘底部增强(这个比较好用)
@@ -78,8 +78,8 @@
     https://repo.icrazeios.com/
 
 
-</details>
-<details>
+ </details>
+ <details>
 <summary>抖音类插件</summary>
 
     AwemeFullScreen 抖音全屏-狗哥
