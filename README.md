@@ -103,7 +103,7 @@
     DYYY-(huami)又叫抖音优化
     https://byg.iosios.net/
 
-</details>
+
 <details>
 
 <summary>其它类插件</summary>
