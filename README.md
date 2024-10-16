@@ -78,9 +78,9 @@
     https://repo.icrazeios.com/
 
  
-    </details
-<details>
 
+</details
+<details>
 <summary>抖音类插件</summary>
 
     AwemeFullScreen 抖音全屏-狗哥
