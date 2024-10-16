@@ -5,8 +5,8 @@
 <details>
 
 <summary>好用插件收集列表</summary>  
-各种插件分类大全
 <details>
+**插件分类**
 <summary>键盘类插件</summary>
 
     dockX 键盘底部增强(这个比较好用)
