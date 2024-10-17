@@ -473,7 +473,7 @@
     https://dixtdf.github.io/repo/
     https://repo.cypwn.xyz/
     https://repo.shorty.systems/
-    https://repo.shorty.systems/
+    https://maxiwee.de/
 
 </details>
 <details>
