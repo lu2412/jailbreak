@@ -140,7 +140,7 @@
     https://brendonjkding.github.io/
 
 
-4-桌面主屏幕插件
+4-主屏幕锁屏插件
 
     atria 桌面布局增强
     https://repo.chariz.com/
@@ -154,8 +154,23 @@
     WireDock 桌面dock添加轮廓
     https://cydiageek.yourepo.com/
 
+    Tako 通知聚合
+    https://www.yourepo.com/
+
+    LSTimeSeconds 锁屏显示秒数的插件。
+    https://www.yourepo.com/
+
+    StatusBarSpeed 的状态栏网速插件。
+    https://lclrc.github.io/repo/
+
+    RecordAnywhere 锁屏录屏插件。
+    https://lclrc.github.io/repo/
+
+    KuKu 横幅通知个性化
+    https://www.yourepo.com/
 
 5-其它类插件
+
     
     RecordPause 录像暂停 
     https://poomsmart.github.io/repo/
@@ -178,8 +193,31 @@
     NoRedirect 禁字诀🈲️阻止指定的应用跳转
     https://havoc.app/
     
+6-控制中心插件
+    
+    CCBadgeClear 控制中心一键清除全部app角标
+    https://jailrepo.initnil.com/
 
+    CCDND 控制中心添加勿扰模式
+    https://www.yourepo.com/
 
+    CCDNDTimer 控制中心勿扰模式增强(自定义时间)
+    https://www.yourepo.com/
+
+    CCBalance 控制中心添加音频平衡(无设置选项，不用添加。呼出控制中心，长按音量模块展开菜单，就可以看到调节音量横屏滑块，拖动滑块即可左右调节。)
+    https://kingpuffdaddi.github.io/
+
+    CCMono 控制中心添加单声道模块(打开手机设置 → 控制中心，添加 CCMono 即可使用。点击即可开启或关闭单声道音频。)
+    https://kingpuffdaddi.github.io/
+
+    CCLiftToWake 控制中心添加抬起唤醒按钮
+    https://jailrepo.initnil.com/
+
+    CCSupportShortcut 控制中心添加快速打开 URL 模块
+    https://dixtdf.github.io/repo/
+
+    CCLess++ 控制中心模块大集(迷你亮度，迷你音量。定位，注销，设置，V*N，自动亮度，截屏，静音，锁屏，4G/5G，切换双卡，CCSIM，清除角标，实时 CPU，系统运行时间，Snapper 2 模块（点击进入可以选择），抬起唤醒。微信付款码、扫码，支付宝付款码、扫码。打开 Filza、Safari、Sileo 等等。)
+    https://xiangfeidexiaohuo.github.io/
 </details>
 <details>
 <summary>Dopamine挂载路径</summary>  
@@ -333,6 +371,8 @@
     https://repo.igerman.cc/
     https://anubistweaks.github.io/
     https://sugiuta.github.io/repo/
+    https://kingpuffdaddi.github.io/
+    https://dixtdf.github.io/repo/
 
 </details>
 <details>
