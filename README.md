@@ -231,7 +231,7 @@
     CCLess++ 控制中心模块大集(迷你亮度，迷你音量。定位，注销，设置，V*N，自动亮度，截屏，静音，锁屏，4G/5G，切换双卡，CCSIM，清除角标，实时 CPU，系统运行时间，Snapper 2 模块（点击进入可以选择），抬起唤醒。微信付款码、扫码，支付宝付款码、扫码。打开 Filza、Safari、Sileo 等等。)
     https://xiangfeidexiaohuo.github.io/
 
-    HotspotQR	将热点密码以二维码方式分享出去
+    HotspotQR 将热点密码以二维码方式分享出去
 	boss源(自带源)
     
     CCLocation	控制中心添加定位	
@@ -240,7 +240,7 @@
     CCVibration	控制中心添加震动模块	
     boss源(自带源)
 
-    CCVPN	控制中心添加VPN模块	
+    CCVPN 控制中心添加VPN模块	
     https://skypain.github.io/repo/
 
     Enable CC MuteModule 控制中心添加静音模块	
@@ -252,13 +252,13 @@
     CCOn&Off	 彻底关闭WIFI和蓝牙	
     https://poomsmart.github.io/repo/
 
-    CoolCC	控制中心增减白色边框	
+    CoolCC 控制中心增减白色边框	
     https://alias20.gitlab.io/apt/
 
     CCPower-Rootless	控制中心电源增强	
     https://repo.initnil.com/
 
-    CCMusicArtwork	控制中心的音乐模块后面显示专辑插图	
+    CCMusicArtwork 控制中心的音乐模块后面显示专辑插图	
     https://sparkdev.me/
 
     Cornuicopia	修改控制中心模块按钮通知小部件边缘形状	
@@ -267,13 +267,13 @@
     EasyAirplaneDisabler 直接从警报中关闭飞行模式。	
     https://repo.anthopak.dev/
 
-    FakesignaLBar	伪装运营商信号灯	
+    FakesignaLBar 伪装运营商信号灯	
     https://alias20.gitlab.io/apt/
 
     VibratingFlashlight 为控制中心调节音量和亮度增加震动	
     https://www.yourepo.com/
     
-    StatusTine	状态栏时间格式设置	
+    StatusTine 状态栏时间格式设置	
     https://sopppra.mooo.com/
     
     Waqt	 状态栏时间格式设置	
@@ -282,19 +282,19 @@
     2nd	启用状态栏日期的第二行	
     https://34306.github.io/
     
-    Eliza	根据电池电量状态显示不同颜色	
+    Eliza 根据电池电量状态显示不同颜色	
     https://repo.shorty.systems/
 
     hueStatusbar 自定义状态栏颜色以及隐藏部分功能,
     https://www.yourepo.com/
 
-    SwishBar	后台多任务界面增加状态栏显示	
+    SwishBar	 后台多任务界面增加状态栏显示	
     https://www.yourepo.com/
     
     CCLessStatusBAR	隐藏下拉控制中心状态栏	
     boss源(自带源)
     
-    PeepReborn	点击状态栏即可隐藏状态栏
+    PeepReborn 点击状态栏即可隐藏状态栏
 	https://paisseon.github.io/
     
     PercentX	 启用系统原生电池百分比	
