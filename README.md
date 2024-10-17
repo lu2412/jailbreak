@@ -234,10 +234,10 @@
     HotspotQR 将热点密码以二维码方式分享出去
 	boss源(自带源)
     
-    CCLocation	控制中心添加定位	
+    CCLocation 控制中心添加定位	
     https://skypain.github.io/repo/
 
-    CCVibration	控制中心添加震动模块	
+    CCVibration 控制中心添加震动模块	
     boss源(自带源)
 
     CCVPN 控制中心添加VPN模块	
@@ -261,7 +261,7 @@
     CCMusicArtwork 控制中心的音乐模块后面显示专辑插图	
     https://sparkdev.me/
 
-    Cornuicopia	修改控制中心模块按钮通知小部件边缘形状	
+    Cornuicopia 修改控制中心模块按钮通知小部件边缘形状	
     https://www.yourepo.com/
 
     EasyAirplaneDisabler 直接从警报中关闭飞行模式。	
