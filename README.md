@@ -36,6 +36,9 @@
     AnyKeyTrackpad 长按键盘任意位置即可移动光标
     https://havoc.app/
 
+    SwipeSelection 沿键盘滑动以移动光标并选择文本。
+    https://repo.icrazeios.com/   
+
     Barmoji 键盘底部增加表情和隐藏地球功能
     https://xiangfeidexiaohuo.github.io/
 
