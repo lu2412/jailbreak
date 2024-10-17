@@ -169,6 +169,87 @@
     KuKu 横幅通知个性化
     https://www.yourepo.com/
 
+    
+    IconOrder 重启崩溃后自动保持图标布局 
+    https://havoc.app/
+
+    Marina Dock功能增强自定义
+    boss源(自带源)
+
+    DockMagic 将时间和日期添加到Dock以及更多内容boss源
+
+    FloatingDockXVI 自定义 Dock 栏 
+    https://havoc.app/
+
+    ShyDock 完全隐藏dock栏 
+    https://cydiageek.yourepo.com/
+
+    Cylinder Reborn 桌面翻页特效 
+    https://repo.chariz.com/
+
+    DesktopLyrics 桌面显示歌词 
+    https://brendonjkding.github.io/
+
+    OCD5根据App图标颜色来自适应App名称和角标的颜色。
+    https://xiangfeidexiaohuo.github.io/
+
+    Appcolorclose (IOS 12+)卸载按扭X号根据图标颜色而着色 
+    https://poomsmart.github.io/repo/
+
+    DownloadBar13 下载应用程序时显示进度条 
+    https://alias20.gitlab.io/apt/
+
+    NoUpdateMark 隐藏桌面软件更新标记和内测标记 
+    https://ichitaso.com/apt/
+
+    Stella 桌面锁屏雪花效果 
+    https://havoc.app/
+
+    SearchDots 翻页点变成ios16搜索 
+    https://repo.chariz.com/
+
+    iSmooth 隐藏页面点 dock栏背景 程序名等
+    https://maxiwee.de/
+    
+    Frame 真正的视频壁纸，让您的iDevice栩栩如生。
+    https://zerui18.github.io/zx02/
+
+    Eneko 视频墙纸 
+    https://nathan4s.lol/repo/
+
+    AutoRotate 系统旋转各种方向
+    https://www.yourepo.com/
+
+    Gyration 自由旋转屏幕方向 
+    boss源(自带源)
+
+    PrimalFolder 2 将文件夹内首个app当作文件夹图标显示 
+    https://ichitaso.com/apt/
+
+    FolderX 文件夹功能增强 
+    http://lizynz.github.io/
+
+    Bolders Reborn 文件夹增强功能插件 
+    https://repo.chariz.com/
+
+    StatusFolder 文件夹打开时显示状态栏 
+    boss源(自带源)
+
+    AddToFolder 在3D触摸菜单中增加添加进文件夹选项 
+    https://repo.anthopak.dev/
+
+    AppData 快速访问软件目录 
+    https://invalidunit.github.io/netskao-archive/
+
+    SpotBetter 去除系统搜索界面无用的杂项
+    https://p2kdev.github.io/repo/
+
+    nobar 主要是去除锁屏右上方小横条 
+    https://maxiwee.de/
+
+    YetAnotherHomeBarHider 隐藏底部横条 
+    https://repo.igerman.cc/
+
 5-其它类插件
 
     
