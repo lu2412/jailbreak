@@ -194,6 +194,18 @@
     https://havoc.app/
     
 6-控制中心插件
+
+    CCSIM-Rootless  快速禁用sim卡
+    https://invalidunit.github.io/netskao-archive/
+    
+    CCSwitchData-Rootless 快速切换双卡蜂窝数据
+    https://invalidunit.github.io/netskao-archive/
+
+    CCVPN Surge  控制中心VPN开启关闭模块(surge图标)
+    https://trollstorex.github.io/repo/
+    
+    CCPay快捷支付  控制中心添加支付宝微信付款码
+    https://byg.iosios.net/
     
     CCBadgeClear 控制中心一键清除全部app角标
     https://jailrepo.initnil.com/
@@ -218,6 +230,92 @@
 
     CCLess++ 控制中心模块大集(迷你亮度，迷你音量。定位，注销，设置，V*N，自动亮度，截屏，静音，锁屏，4G/5G，切换双卡，CCSIM，清除角标，实时 CPU，系统运行时间，Snapper 2 模块（点击进入可以选择），抬起唤醒。微信付款码、扫码，支付宝付款码、扫码。打开 Filza、Safari、Sileo 等等。)
     https://xiangfeidexiaohuo.github.io/
+
+    HotspotQR	将热点密码以二维码方式分享出去
+	boss源(自带源)
+    
+    CCLocation	控制中心添加定位	
+    https://skypain.github.io/repo/
+
+    CCVibration	控制中心添加震动模块	
+    boss源(自带源)
+
+    CCVPN	控制中心添加VPN模块	
+    https://skypain.github.io/repo/
+
+    Enable CC MuteModule 控制中心添加静音模块	
+    https://invalidunit.github.io/repo/
+
+    BackgrounderAction15 控制中心真后台模块插件	
+    http://akusio.github.io
+
+    CCOn&Off	 彻底关闭WIFI和蓝牙	
+    https://poomsmart.github.io/repo/
+
+    CoolCC	控制中心增减白色边框	
+    https://alias20.gitlab.io/apt/
+
+    CCPower-Rootless	控制中心电源增强	
+    https://repo.initnil.com/
+
+    CCMusicArtwork	控制中心的音乐模块后面显示专辑插图	
+    https://sparkdev.me/
+
+    Cornuicopia	修改控制中心模块按钮通知小部件边缘形状	
+    https://www.yourepo.com/
+
+    EasyAirplaneDisabler 直接从警报中关闭飞行模式。	
+    https://repo.anthopak.dev/
+
+    FakesignaLBar	伪装运营商信号灯	
+    https://alias20.gitlab.io/apt/
+
+    VibratingFlashlight 为控制中心调节音量和亮度增加震动	
+    https://www.yourepo.com/
+    
+    StatusTine	状态栏时间格式设置	
+    https://sopppra.mooo.com/
+    
+    Waqt	 状态栏时间格式设置	
+    https://p2kdev.github.io/repo/
+
+    2nd	启用状态栏日期的第二行	
+    https://34306.github.io/
+    
+    Eliza	根据电池电量状态显示不同颜色	
+    https://repo.shorty.systems/
+
+    hueStatusbar 自定义状态栏颜色以及隐藏部分功能,
+    https://www.yourepo.com/
+
+    SwishBar	后台多任务界面增加状态栏显示	
+    https://www.yourepo.com/
+    
+    CCLessStatusBAR	隐藏下拉控制中心状态栏	
+    boss源(自带源)
+    
+    PeepReborn	点击状态栏即可隐藏状态栏
+	https://paisseon.github.io/
+    
+    PercentX	 启用系统原生电池百分比	
+    https://www.yourepo.com/
+
+    BatteryBuddy	电池添加可爱笑脸表情	
+    https://repo.cypwn.xyz/
+
+    NowPLayinglndicator 播放音乐时状态栏会显示图标	
+    https://repo.icrazeios.com/
+
+
+
+
+
+
+
+
+
+
+
 </details>
 <details>
 <summary>Dopamine挂载路径</summary>  
