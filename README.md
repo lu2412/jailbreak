@@ -279,7 +279,7 @@
     Waqt 状态栏时间格式设置	
     https://p2kdev.github.io/repo/
 
-    2nd	启用状态栏日期的第二行	
+    2nd启用状态栏日期的第二行	
     https://34306.github.io/
     
     Eliza 根据电池电量状态显示不同颜色	
