@@ -253,7 +253,7 @@
     YetAnotherHomeBarHider 隐藏底部横条 
     https://repo.igerman.cc/
 
-5-其它类插件
+5-系统增强类插件
 
     
     RecordPause 录像暂停 
@@ -276,6 +276,9 @@
 
     NoRedirect 禁字诀🈲️阻止指定的应用跳转
     https://havoc.app/
+
+    DumpDecrypter 狗哥砸壳插件
+    https://jailrepo.initnil.com/
     
 6-控制中心插件
 
