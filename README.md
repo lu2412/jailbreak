@@ -277,9 +277,13 @@
     NoRedirect 禁字诀🈲️阻止指定的应用跳转
     https://havoc.app/
 
-    DumpDecrypter 狗哥砸壳插件
+    DumpDecrypter 狗哥砸壳插件配合NoAppThinning使用效果更佳
     https://jailrepo.initnil.com/
     
+    NoAppThinning 配合狗哥砸壳插件使用
+    https://jailrepo.initnil.com/
+
+
 6-控制中心插件
 
     CCSIM-Rootless快速禁用sim卡
