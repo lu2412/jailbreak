@@ -171,12 +171,14 @@
 
     KuKu 横幅通知个性化
     https://www.yourepo.com/
-
     
     IconOrder 重启崩溃后自动保持图标布局 
     https://havoc.app/
 
     Marina Dock功能增强自定义
+    boss源(自带源)
+
+    DoubleTapToLock 双击锁定/主页/状态栏锁定设备！
     boss源(自带源)
 
     DockMagic 将时间和日期添加到Dock以及更多内容boss源
