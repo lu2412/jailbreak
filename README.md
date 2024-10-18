@@ -605,19 +605,17 @@
 
 9-SquidGesture Pro插件配置
 
-    - 跳转到SquidGesture Pro手势设置(OneSettings) 
-    Prefs:root=TWEAKS_CELL&path=SquidGesture Pro
+安装OneSettings设置归类插件跳转到设置指定插件前缀为
+    
+    - Prefs:root=TWEAKS_CELL&path=插件名称
+未安装归类插件跳转到设置前缀为
+
+    Prefs:root=用户名&path=
 
     -跳转到SquidGesture Pro  编辑链接(OneSettings)
     Prefs:root=TWEAKS_CELL&path=SquidGesture Pro/editPresetURLs
 
-    -跳转到SquidExtender键盘设置 (OneSettings)
-    Prefs:root=TWEAKS_CELL&path=SquidExtender
 
-    -跳转到 电话助手插件(OneSettings)
-    Prefs:root=TWEAKS_CELL&path=电话助手
-
-    -跳转到SnowBoard滑雪板(OneSettings)
     
 </details>
 
