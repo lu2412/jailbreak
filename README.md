@@ -564,7 +564,11 @@
 <summary>我的插件配置备份</summary>
 
 
-1-电话助手时间格式 [状态栏通用](xybp888/IMG_0085.png)[状态栏和图标](xybp888/IMG_3588.jpeg)[电话短信](xybp888/IMG_98.jpeg)[状态栏电池](xybp888/IMG_84.jpeg)
+1-电话助手时间格式 
+[状态栏通用](xybp888/IMG_0085.png)
+[状态栏和图标](xybp888/IMG_3588.jpeg)
+[电话短信](xybp888/IMG_98.jpeg)
+[状态栏电池](xybp888/IMG_84.jpeg)
     
     {格式=HH:mm:ss,大小=15}{换行=1}{格式=MM月dd日,大小=14} {格式= E,大小=13,加粗=1,文字颜色=#FF8727 }
 
