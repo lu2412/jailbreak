@@ -29,6 +29,9 @@
 
     KeySwipe 键盘上下滑动来切换键盘
     https://anubistweaks.github.io/
+
+    ClassicKeyboardXS- Rootless自定义X键盘底部高度,地球底部高度等
+    https://invalidunit.github.io/netskao-archive/
     
     SkinnyMenu 从菜单中删除共享和查找
     https://www.yourepo.com/
