@@ -628,7 +628,6 @@
 # 二、个人收集TG频道
 <details>
 <summary>Quantumult X频道</summary>  
-</span>
 
     1、叮当猫iOS资源脚本分享 
     https://t.me/chxm1023
@@ -659,7 +658,6 @@
 </details>
 <details>
 <summary>TrollStore巨魔频道</summary>  
-</span>
 
     1、巨魔商店pro 交流群组
     https://t.me/TrollStorePro
@@ -702,7 +700,6 @@
 </details>
 <details>
 <summary> iOS   越狱分享频道</summary>  
-</span>
 
     1、懒猫插件交流
     https://t.me/maogroup
@@ -736,7 +733,6 @@
 </details>
 <details>
 <summary>云盘影视资源频道</summary>
-</span>
 
     1、云盘盘-阿里云盘
     https://t.me/yunpanpan
@@ -754,11 +750,14 @@
 	1、安卓秋名山频道
     https://t.me/ae86_android
 
-    2，开盒查人频道
+    2、开盒查人频道
     https://t.me/heikeciadgk
 
     3、频道索引&推荐
     https://t.me/recommend3
+
+    4、搜书频道(小说下载)
+    https://t.me/sosdbot
 
 </details>
 
