@@ -605,14 +605,14 @@
 
 9-SquidGesture Pro插件配置
 
-安装OneSettings设置归类插件跳转到设置指定插件前缀为
+9-1.1安装OneSettings设置归类插件跳转到设置指定插件前缀为
     
-    - Prefs:root=TWEAKS_CELL&path=插件名称
-未安装归类插件跳转到设置前缀为
+    Prefs:root=TWEAKS_CELL&path=插件名称
+9-1.2未安装归类插件跳转到设置前缀为
 
     Prefs:root=用户名&path=
 
-    -跳转到SquidGesture Pro  编辑链接(OneSettings)
+    跳转到SquidGesture Pro  编辑链接(OneSettings)
     Prefs:root=TWEAKS_CELL&path=SquidGesture Pro/editPresetURLs
 
 
