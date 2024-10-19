@@ -291,6 +291,12 @@
 
 6-控制中心插件
 
+    Single Mute 静音小图标
+    https://havoc.app/
+
+    Single VPN 开启Vpn时状态栏WiFi或数据信号，以指定颜色显示，以免忘记关闭。
+    https://havoc.app/
+    
     CCSIM-Rootless快速禁用sim卡
     https://invalidunit.github.io/netskao-archive/
     
