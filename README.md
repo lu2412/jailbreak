@@ -291,8 +291,9 @@
 
 6-控制中心插件
 
-    CC18 iOS18圆角控制中心(https://github.com/dayanch96/CC18)
+    CC18 iOS18圆角控制中心[项目地址](https://github.com/dayanch96/CC18)
     https://trollstorex.github.io/repo/
+
     Single Mute 静音小图标
     https://havoc.app/
 
