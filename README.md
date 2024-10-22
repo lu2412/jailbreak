@@ -777,6 +777,9 @@
     4、搜书频道(小说下载)
     https://t.me/sosdbot
 
+    5、短信轰炸机器人
+    @jdHappybot
+
 </details>
 
 # 三、loon个人配置记录
