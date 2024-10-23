@@ -804,20 +804,6 @@
 </details
 # 四越狱源搭建
     
-    # 设置Git的HTTP缓冲区大小
-    git config --global http.postBuffer 524288000
-
-    # 切换到指定的目录
-    cd /private/preboot/74D94A8B9F6690E3C1F475D34F26E5000000630BA0C54E54CBFA1306213F5CD12805A3D964EE88B6431CC2D364437C74/dopamine-9Swyxk/procursus/var/mobile/liym
-
-    # 拉取远程仓库的最新更改
-    git pull
-
-    # 添加所有更改到暂存区
-    git add .
-
-    # 提交更改到本地仓库
-    git commit -m "xxx"
-
-    # 推送更改到远程仓库
-    git push
+1、Sileo插件图标引用路径为
+    
+    icon:https://liym5238.github.io/liym/icon/图片名称
