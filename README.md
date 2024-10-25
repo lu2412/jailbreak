@@ -802,9 +802,11 @@
 
     https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Spotify/Spotify.list
 
-</details
+</details>
+
 # 四越狱源搭建
-    
+<details>
+<summary>sileo源搭建</summary>    
 1、Sileo插件图标引用路径为
     
     icon:https://liym5238.github.io/liym/icon/图片名称
@@ -817,10 +819,24 @@
 
     https:\/\/qr.alipay.com\/fkx19423rvx2js7rku0hk9f
 
+4、一键生成插件Packages信息
+
+    dpkg-scanpackages . /dev/null > Packages
+
+5、一键上传GitHub仓库带用户名
+
+    cd /var/jb/var/mobile/liym
+    git pull
+    git add .
+    git commit -m "xxx"
+    git push
+    liym5238
 
 
+6、克隆GitHub到本地
 
+    git clone https://github.com/liym5238/liym.git
 
-
+</details>
 
 
