@@ -832,6 +832,16 @@
     git push
     liym5238
 
+7、一键上传GitHub仓库带生成描述文件和用户名
+
+    dpkg-scanpackages /var/jb/var/mobile/liym/debs /dev/null > /var/jb/var/mobile/liym/debs/Packages
+    cd /var/jb/var/mobile/liym
+    git pull
+    git add .
+    git commit -m "xxx"
+    git push
+    liym5238
+
 
 6、克隆GitHub到本地
 
