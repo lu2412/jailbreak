@@ -853,11 +853,7 @@
 
 6-2设置上传文件大小限制命令(只需要配置一次)
 
-    # 增加 http.postBuffer 的大小
-    git config --global http.postBuffer 524288000
-    # 增加 http.lowSpeedLimit 和 http.lowSpeedTime
-    git config --global http.lowSpeedLimit 1024
-    git config --global http.lowSpeedTime 30
+    
 
 
 
