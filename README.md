@@ -846,6 +846,20 @@
 
     git clone https://github.com/liym5238/liym.git 
 
+6-1克隆到本地后如更新到云端需要以下关联仓库(只需要配置一次)
+    
+    git config --global user.name "liym5238"
+    git config --global user.email "https: //liym5238@github.com"
+
+6-2设置上传文件大小限制命令(只需要配置一次)
+
+    # 增加 http.postBuffer 的大小
+    git config --global http.postBuffer 524288000
+    # 增加 http.lowSpeedLimit 和 http.lowSpeedTime
+    git config --global http.lowSpeedLimit 1024
+    git config --global http.lowSpeedTime 30
+
+
 
 7、一键替换链接sh文件，sh文件权限记得更改为0775权限
 
