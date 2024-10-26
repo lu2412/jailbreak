@@ -808,6 +808,14 @@
 # 四越狱源搭建
 <details>
 <summary>sileo源搭建</summary>    
+0、准备安装所需插件
+
+    NewTerm 3 Beta
+    git
+    dbkg-dev
+    dpkg-repack
+    libdpkg-dev
+
 1、Sileo插件图标引用路径为
     
     icon:https://liym5238.github.io/liym/icon/图片名称
