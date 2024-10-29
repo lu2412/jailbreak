@@ -820,20 +820,24 @@
 输入此命令(邮箱换成自己的)然后连续按四五次回车默认配置就行
     
     ssh-keygen -t ed25519 -C "your_email@example.com"
+
 0-2、filza打开 /var/jb/var/mobile/.ssh中查看id_rsa.pub
     此文件内容即为全选复制(后面邮箱内容更改为自己邮箱)
+
 0-3、Github账号上添加公钥
-    进入GitHub的Settings设置，添加ssh key，把刚才复制的内容粘贴上去保存即可
+    
+进入GitHub的Settings设置，添加ssh key，把刚才复制的内容粘贴上去保存即可
     
 0-4、验证是否设置成功
 
     ssh -T git@github.com
+
 0-5、显示如下即是设置成功
 
     Hi liym5238! You've successfully authenticated, but GitHu b does not provide shell access.
 
 
-0-6、的上传命令为
+0-6、ssh用的上传命令为
     
     cd /var/jb/var/mobile/liym
     git pull
