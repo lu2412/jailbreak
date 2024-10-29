@@ -832,6 +832,15 @@
 
     Hi liym5238! You've successfully authenticated, but GitHu b does not provide shell access.
 
+
+0-6、的上传命令为
+    
+    cd /var/jb/var/mobile/liym
+    git pull
+    git add .
+    git commit -m "xxx"
+    git push
+
 1、Sileo插件图标引用路径为
     
     icon:https://liym5238.github.io/liym/icon/图片名称
