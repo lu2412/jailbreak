@@ -887,6 +887,20 @@
 
     
 
+6-3 json描述增减文件代码为(完整一张图片代码)
+
+    {
+    "class": "DepictionScreenshotsView",
+    "itemCornerRadius": 0,
+    "itemSize": "{240, 520}",
+    "screenshots": [
+        {
+            "accessibilityText": "Screenshot",
+            "url": "https://liym5238.github.io/liym/icon/Eclecticby.png"
+        }
+    ]
+}
+
 
 
 7、一键替换链接sh文件，sh文件权限记得更改为0775权限
