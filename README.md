@@ -847,7 +847,8 @@
 
 1、Sileo插件图标引用路径为
     
-    icon:https://liym5238.github.io/liym/icon/图片名称
+    https://raw.githubusercontent.com/liym5238/liym/refs/heads/main/icon/
+
 
 2、Sileo插件描述json路径
     
