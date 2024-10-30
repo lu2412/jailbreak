@@ -836,6 +836,8 @@
 
     Hi liym5238! You've successfully authenticated, but GitHu b does not provide shell access.
 
+0-5.1重新克隆后去本地仓库.git/config
+    文件里把URL = 后面更改为git@github.com:liym5238/liym.git
 
 0-6、ssh用的上传命令为
     
