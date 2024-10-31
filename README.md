@@ -883,24 +883,10 @@
     git config --global user.name "liym5238"
     git config --global user.email "https: //liym5238@github.com"
 
-6-2设置上传文件大小限制命令(只需要配置一次)
+6-2设置上传文件大小限制命令(只需要配置一次)设置为500m
 
     
-
-6-3 json描述增减文件代码为(完整一张图片代码)
-
-    {
-    "class": "DepictionScreenshotsView",
-    "itemCornerRadius": 0,
-    "itemSize": "{240, 520}",
-    "screenshots": [
-        {
-            "accessibilityText": "Screenshot",
-            "url": "https://liym5238.github.io/liym/icon/Eclecticby.png"
-        }
-    ]
-}
-
+    git config --global http.postBuffer 524288000 
 
 
 7、一键替换链接sh文件，sh文件权限记得更改为0775权限
