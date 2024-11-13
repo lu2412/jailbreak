@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 切换到包含 Packages 文件的目录
-cd /var/jb/var/mobile/jailbreak
+cd /var/jb/var/mobile/Jailbreak
 
 # 删除原有的 Packages 文件（如果存在）
 if [ -f Packages ]; then
