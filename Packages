@@ -1,3 +1,217 @@
+Package: com.0xkuj.backgrounderaction15autostate
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 384
+Depends: jp.akusio.backgrounderaction15, com.opa334.altlist
+Filename: ./debs/com.yourepo.0xkuj.backgrounderaction15autostate_1.0.1_iphoneos-arm64.deb
+Size: 26650
+MD5sum: 455be0897a718d085a51295e17bf5800
+SHA1: b3ab8f9c6fd05bed34c96adc22093fe2c8b48402
+SHA256: b79130a632859ac42ba473b07c290390898d59192e45ec3ee53f80287ab6ce3f
+Section: Tweaks
+Description: Save Action state for BackgrounderAction15 CC Toggle
+Author: 0xkuj
+Name: BackgrounderAction15AutoState
+
+Package: com.check0ver.AlphaRootless
+Version: 1.15
+Architecture: iphoneos-arm64
+Maintainer: @UAE_AD1001
+Filename: ./debs/3614.deb
+Size: 6291466
+MD5sum: 6b0f6f706be84ed5a4022b39c4d3e3b8
+SHA1: cfac31f71ded4c75c62aa5caec83431c96bb3a5b
+SHA256: 4e3da9457ca0f18e46884d7e156936d32083b60a8db512ebf1efbb072fe34cb7
+Section: Rootless
+Description: ثيم جميل يحتوي على 321 ايقونه وبعض الاضافات الجماليه
+Author: unknown
+Icon: https://check0ver.com/icon/icon1.png
+Name: Alpha Rootless
+
+Package: com.check0ver.FaintUIRootless
+Version: 1.03
+Architecture: iphoneos-arm64
+Maintainer: @UAE_AD1001
+Filename: ./debs/3816.deb
+Size: 1411698
+MD5sum: cf16160710ce544e1acd50a281d3292d
+SHA1: 4877f3833acd208b7bde15fba249f83dd3580dc3
+SHA256: 4e8e539490405498d19344c9d070810834ddbc220e01c700d481572ef6377c2e
+Section: Rootless
+Description: ثيم خاص لتغيير ايقونات النظام بشكل عام
+Author: Sudo
+Icon: https://check0ver.com/icon/icon1.png
+Name: Faint UI Rootless
+
+Package: com.nightwind.searchdots
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: Nightwind <nightwinddev@gmail.com>
+Installed-Size: 506
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.nightwind.searchdots_1.1.5_iphoneos-arm64.deb
+Size: 106376
+MD5sum: 9baacac44730aa51d7d2872c4f85086c
+SHA1: 7f8d61bd92128687d6a1ee1b1480e81f45e7f325
+SHA256: d14373d2f710672a6da77c38867535d8a2ad2b002a8fd6429910e8ba9ae27ab8
+Section: Tweaks
+Description: Search Pill Ported from iOS 16
+Tag: compatible_min::ios14.0
+Author: Nightwind <nightwinddev@gmail.com>
+Depiction: https://chariz.com/get/searchdots
+Icon: https://img.chariz.cloud/icon/searchdots/icon@3x.png
+Name: SearchDots
+
+Package: com.officialscheduler.mterminal-rootless
+Version: 1.4-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 2232
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware (>= 15.0), gettext-localizations, system-cmds, bash | zsh
+Conflicts: mterminal, oldabi
+Filename: ./debs/4325.deb
+Size: 506340
+MD5sum: 6c3b3a828610bf4aa3eab1eea180c663
+SHA1: 5cd1dcbda215e173e88386f88224237193f68689
+SHA256: a27c11f3037dc5bb72b5a3c2b3e81f8881e1fe7e0ee83a47878fb6fa37211424
+Section: Netskao-Tweaks
+Homepage: https://bitbucket.org/lordscotland/mterminal
+Description: A MobileTerminal fork. Full Screen Support
+Author: lordscotland
+Name: MTerminal-Rootless
+
+Package: com.sutuplus.releasefugu15
+Version: 5.6.2-1
+Architecture: iphoneos-arm64
+Maintainer: Carby <super.cat.rabbit@gmail.com>
+Installed-Size: 408
+Depends: mobilesubstrate
+Filename: ./debs/659.deb
+Size: 408788
+MD5sum: 77a730058371fd04500f47532de630a4
+SHA1: 2b63c6a5cf53afdf55ed169388966379ed68be34
+SHA256: 230c636770c1f4d178fd326ae0ac7468c2111b88eaf84e6f26dc3c4dad14fe75
+Section: 软件增强
+Description: 本插件安装包来自苏兔源
+Author: 公众号：苏兔（bysutu） <super.cat.rabbit@gmail.com>
+Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.releasefugu15
+Name: 酸果 - Rootless
+
+Package: com.tigisoftware.filza64bit
+Version: 4.0.1-4
+Architecture: iphoneos-arm64
+Maintainer: TIGI Software
+Installed-Size: 23200
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./debs/com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm64.deb
+Size: 8700882
+MD5sum: 3ba64c6c17e4a92c3afc89a95a224532
+SHA1: edaaf4766eeafcbc2186eecdc99a519b8eca2ed5
+SHA256: 5d354834ad5d44fcd2c1e3bdb4d082c25df6f8ba48f837745c2be1aec3f8f981
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
+Author: TIGI Software
+Name: Filza File Manager 64-bit
+
+Package: com.yourepo.themepro.themepro-154-rootless
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Filename: ./debs/themepro-154-rootless_2.0.1_iphoneos-arm64.deb
+Size: 4208676
+MD5sum: 8b902d0c65eb3a34003404eece43a504
+SHA1: 837f927e3eba5526c75999276867d18caa10faf3
+SHA256: e1ba35549f43ca55538fb2afbf9c2e8b4d828b9555ac4299f0ca66b14ecc79e9
+Section: Tweaks
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM <MustangYM@yeah.net>
+Name: ThemePro-2.0.1-Rootless
+
+Package: cum.0xilis.anotherlazyhidedocktweak
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Snoolie K
+Installed-Size: 168
+Filename: ./debs/AnotherLazyHideDockTweak-1.1-Rootless.deb
+Size: 4056
+MD5sum: 511f31de082700dca7688473f2b62380
+SHA1: b1e62860d5ba6ec04c8d481474a9c9e3af5d4a70
+SHA256: c0a83398a0546bdcf8c9f6007c8f5c34a9b0a586080cf771d0a6173859b28b53
+Section: Tweaks
+Description: Just another dock hide tweak
+Author: Snoolie K
+Name: AnotherLazyHideDockTweak
+
+Package: cum.0xilis.snooliebattery
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Snoolie K
+Filename: ./debs/SnoolieBattery-1.0-Rootless.deb
+Size: 3672
+MD5sum: c01cc7fabe3b9474c6ff48921cb2ba18
+SHA1: 97a07edd258fc82afc34e6601fcf54f0d256702f
+SHA256: 43dc6b7a72810508a6331cc1db54c3051c3aa9787ceec870cf3fa3c1119fef2a
+Section: Tweaks
+Description: Battery Percent on iOS 15
+Author: Snoolie K
+Name: SnoolieBattery
+
+Package: cum.0xilis.unsigncuts
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Snoolie K
+Installed-Size: 1148
+Filename: ./debs/cum.0xilis.unsigncuts_2.0_iphoneos-arm64.deb
+Size: 818456
+MD5sum: 74fa5cf81ee256c481f2b3a594195dbf
+SHA1: cdfa117573904965383a78a87026947aebc769a1
+SHA256: 43f0030a17f319264f8b8fc736690c63a196a4f67ba02a19a2abc733ed7e669a
+Section: Tweaks
+Description: Import unsigned shortcut files
+Author: Snoolie K
+Name: Unsigncuts
+
+Package: gettext-localizations
+Version: 2020.10.07
+Architecture: iphoneos-arm64
+Maintainer: Procursus Team <support@procurs.us>
+Installed-Size: 1088
+Depends: libintl8 (>= 0.20.0)
+Conflicts: com.linusyang.localeutf8
+Replaces: com.linusyang.localeutf8
+Provides: com.linusyang.localeutf8 (= 99.9)
+Filename: ./debs/gettext-localizations_2020.10.07_iphoneos-arm64.deb
+Size: 205704
+MD5sum: 6de97ebc2b9d19721997d979ec887635
+SHA1: 8d694a2a78a5273adb45740d8107d3b71f69351b
+SHA256: 8e9341135a4d8ed10e311e6e2e91702ac96caa4c1fb77ec12103a1dd9e1eb218
+Section: Localizations
+Priority: important
+Description: Locale files necessary for command line tool translation.
+
+Package: jp.akusio.backgrounderaction15
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: @akusio_RR
+Installed-Size: 340
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/jp.akusio.backgrounderaction15_0.1.0_iphoneos-arm64.deb
+Size: 9758
+MD5sum: dc22298382fa90b55cada3c17be1505e
+SHA1: f792ae16efe120e57cb3250cc68f7937013943b7
+SHA256: c497c404ffff941c5fe757f634f5c392f88564e6dcd5fc266a1eeea51b3b948d
+Section: Tweaks
+Description: [iOS15]Add "Toggle Background Mode" action to ControlCenter.
+Author: @akusio_RR
+Depiction: https://akusio.github.io/descriptions/backgrounderaction15/index.html
+Name: BackgrounderAction15 CCSupport
+
 Package: netskao.3dnetworkfixer-rootless
 Version: 1.1-8
 Architecture: iphoneos-arm64
@@ -13,4 +227,637 @@ Section: Netskao-Tweaks
 Description: 3D desktop menu, quick fix for the app networking permissions, Supports iOS13-iOS15
 Author: Netskao
 Name: 3DNetworkFixer-Rootless
+
+Package: netskao.actionbarreborn
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 796
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/4421.deb
+Size: 161738
+MD5sum: fd6464a50cf0597031df09a95ba3f745
+SHA1: 68aac051d2b4c6a6d26bdb0f712ba7d08610aa8a
+SHA256: 0ea8489bd6e123128a3f9157de08693b78abe258520b90738fcb2a97aef548e7
+Section: Netskao-Tweaks
+Description: Undo, redo, select all, copy, cut and paste actions on bottom of keyboard. ActionBar Free Reborn Edition
+Author: Netskao
+Name: ActionBar Reborn
+
+Package: netskao.alipayscan-rootless
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 160
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/4300.deb
+Size: 15776
+MD5sum: 619f261b155562f34bd0006b7d2dbe96
+SHA1: dcca9737135379f29687d592bb164a900f546a95
+SHA256: 077e86599a75c7d0a5cbd4b6702e3b42927d11d8f7f60cfd50a7f9a2f6a03b4d
+Section: Netskao-Tweaks
+Description: 通过控制中心快捷打开支付宝扫一扫，设置-控制中心-自定控制内添加后使用
+Author: Netskao
+Name: AlipayScan-Rootless
+
+Package: netskao.autofaceunlock-rootless
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 452
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/4251.deb
+Size: 63482
+MD5sum: 2fa5241e48443845123f78a5def5be84
+SHA1: 30c68e85fcd951ace98c139a3f4f49a965b0b58f
+SHA256: fd0a9b6c1621add83f827335b8eae0dd1b2148d8394045902c69776767619cad
+Section: Netskao-Tweaks
+Description: 面容识别成功自动解锁无需滑动，原生函数更为节电，可设置锁屏收到通知时不自动解锁，锁屏正在播放音乐时不自动解锁，锁屏手电筒打开时不自动解锁，面容识别失败后自动重试，面容延时解锁，请勿和其他类似插件一同食用
+Author: Netskao
+Name: AutoFaceUnlock-Rootless
+
+Package: netskao.awemepurification-rootless
+Version: 2.9-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 2480
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/4819.deb
+Size: 1175740
+MD5sum: f7e9a14e8671b9772966064caa7218ab
+SHA1: 8ccbd5e668c7643c65cbe9223da2dbfd29628125
+SHA256: 985cebb042191b03f5abb807689c97b81c8e3e478de427792c0e44c4a0ffdde8
+Section: Netskao-Tweaks
+Description: 抖音净化！设置位于抖音-设置，仅支持25.8.0及以上版本抖音
+Author: Netskao
+Name: 抖音净化-Rootless
+
+Package: netskao.batterypercentx-rootless
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/4255.deb
+Size: 5862
+MD5sum: 5a8f95314d363a17a3794e5f262efb6e
+SHA1: 5541e93791e0765be06db27271aaf63cd18d08d4
+SHA256: b935f4d841fda75a51f5b81594a505b028d25f4ba957196db1af03b82b5a4bb7
+Section: Netskao-Tweaks
+Description: BatteryPercentX启用系统原生电池百分比，加深边框颜色，加深充电时电池颜色
+Author: Netskao
+Name: BatteryPercentX-Rootless
+
+Package: netskao.blblnoads-rootless
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 328
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/4813.deb
+Size: 73392
+MD5sum: ea86a3370e0e4c16a45ad9dce3ba404f
+SHA1: 4f66970bade457dcc48bbc420272f137d5aa0c3f
+SHA256: ffb6876da3ab3ef20485ff1651b244a75ac16e25212bd14a7ede5a7095310dad
+Section: Netskao-NoAds
+Description: 哔哩哔哩去除启动广告, 去除青少年提示, 去除AppStore评分提示, 去除底部动态\发布\会员购按钮, 去除瀑布流中插入广告, 去除视频详情页面推荐视频中的创作推广, 去除评论区顶部会员推广, 我的页面推广等, 仅支持7.48.0及以上版本
+Author: Netskao
+Name: 哔哩哔哩 NoAds-Rootless
+
+Package: netskao.ccbadgeclear-rootless
+Version: 1.2-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 240
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/4323.deb
+Size: 34548
+MD5sum: ca8c82175de7254de46e2e70af1a2375
+SHA1: 44d73f10abdb68afa86cbdeb4bce5dc4615a83fe
+SHA256: 6dcd559c438acce0ecfa4bf8b80283e53b19129a7c603d8a1d8371c1deed5238
+Section: Netskao-Tweaks
+Description: Quickly clean up all red badge on desktop via Control Center, Support iOS11-15
+Author: Netskao
+Name: CCBadgeClear-Rootless
+
+Package: netskao.cccellularrate-rootless
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 616
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/4319.deb
+Size: 89560
+MD5sum: 2389bdef1f11a8c742a73cbe3d31c449
+SHA1: 5f76e97e0a3a0c9be5c1703665050228339ac766
+SHA256: c39c48af7d836ba52bab176052945435cf4926e76119749e67f95a7def4558a8
+Section: Netskao-Tweaks
+Description: Quickly switch the type of cellular data 2/3/4/5G currently in use via the Control Center, only the types supported in the current device settings will be displayed
+Author: Netskao
+Name: CCCellularRate-Rootless
+
+Package: netskao.ccsim-rootless
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 188
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/4304.deb
+Size: 23340
+MD5sum: 1bae25c5e9e0a1323c7b1680dc0e5102
+SHA1: f6be808ef941f9e7559b94b753d087430830e59e
+SHA256: 7298097d53871ec14f743dc40a31cff320c6bce9b1a6b3fdd5eddeb98d8faf87
+Section: Netskao-Tweaks
+Description: For dual-SIM cards, you can quickly enable or disable one of the SIM cards through the Control Center
+Author: Netskao
+Name: CCSIM-Rootless
+
+Package: netskao.ccswitchdata-rootless
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 132
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/4303.deb
+Size: 20664
+MD5sum: 6a97b827a78f6e12b713f5f795983162
+SHA1: e2ed05b497bed6e55803a59dfd55961df2fb268a
+SHA256: f509fad7d911b2e3fe0c9134832caa6ed24ea3f7e4af4a16e2fe2cb139e818eb
+Section: Netskao-Tweaks
+Description: For dual-SIM cards, the selected cellular network can be switched quickly via the Control Center
+Author: Netskao
+Name: CCSwitchData-Rootless
+
+Package: netskao.classickeyboardxs-rootless
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 436
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/4257.deb
+Size: 65036
+MD5sum: 229594e5b219c9ea27aa2222ef83c058
+SHA1: 6d278d49ab6b3b5eecf330e3c6941882a95722c0
+SHA256: 1e0e7e5ca8c7994198cf6ad6c4e61e24221f1d281b2e4e1ae8096ade90266964
+Section: Netskao-Tweaks
+Description: 自定义X键盘底部高度，地球底部高度等
+Author: Netskao
+Name: ClassicKeyboardXS-Rootless
+
+Package: netskao.disablectnotifyui-rootless
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 136
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/4271.deb
+Size: 2276
+MD5sum: 922100a3ce5b6039d3a3907d45405005
+SHA1: 8c5e517d713d81acb4eda3d5f0675073c4cac81b
+SHA256: 92813d8f44197e96cbe38074b7ff28d613eeb8e774440c18dfca092e42438718
+Section: Netskao-Tweaks
+Description: Disable telephony welcome notifications
+Author: Netskao
+Name: DisableCTNotifyUI-Rootless
+
+Package: netskao.disabletestflightblock-rootless
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 104
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/4817.deb
+Size: 12994
+MD5sum: 54550f099de9181bda71e94f096f85ce
+SHA1: d2c4f954c62a90101bb9d9348ee6645f0e7111d5
+SHA256: db698ad1b1ba138ccfbb749205d179da933921ca5cac6149b8bfa5b7d9a9fbde
+Section: Netskao-Tweaks
+Description: 解除国区账号无法下载国区AppSrore内已下架或者未上架国区的对应TestFlight应用
+Author: Netskao
+Name: DisableTestFlightBlock-Rootless
+
+Package: netskao.filzacrack-rootless
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
+Filename: ./debs/4311.deb
+Size: 5028
+MD5sum: cd43968f8a3f52125e444195c2fbffda
+SHA1: 126e7bb7f748e1c54a9201d04be540d4f2f90afd
+SHA256: eec3ae35f6b41142c0c887ed94e9a9c176f78b51992b0ffd79b6f02bc5525b0d
+Section: Netskao-Cracks
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza unlock full functionality, the main program please install in the official source
+Author: Netskao
+Name: Filza Crack-Rootless
+
+Package: netskao.flexlist-rootless
+Version: 1.4-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 3736
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/4279.deb
+Size: 832640
+MD5sum: a4996c553eafb4dfce9aa39530a43b17
+SHA1: ee14da2abc94ad150f8013e41d88f9c0371a40b1
+SHA256: 11b5adb912c634f22956fc1901d21aa0353bacb9505244f5eaaf5c91512d3907
+Section: Netskao-Tweaks
+Description: FLEXList is a wrapper tool for FLEX Tool
+Author: Netskao
+Name: FLEXList-Rootless
+
+Package: netskao.hideallbar-rootless
+Version: 2.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 152
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/4246.deb
+Size: 3948
+MD5sum: 0633369e271fc0eacc7aba596e97ccb1
+SHA1: a1c44926bf2b44d63bcfde6b4df98eaef2df9593
+SHA256: e3958891be1000b91b97bc323c5f71877d83ed89231bd1c4f74e9a27748ff65a
+Section: Netskao-Tweaks
+Description: 隐藏X系列的所有地方的黑条，且没有任何影响（例如横屏游戏时依旧需要上滑两次退出）
+Author: Netskao
+Name: HideAllBar-Rootless
+
+Package: netskao.imgplaycrack-rootless
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 440
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/4560.deb
+Size: 109476
+MD5sum: a4c4801053c928cfd9cd969d85a2cfb8
+SHA1: 30700bdd57e39d512db6380c4a8162a32d2100af
+SHA256: 8dbc6c27f899d7c7309de0dbe22b1b85c6f45ce9b85810d6b4459acddef43a6e
+Section: Netskao-Cracks
+Description: ImgPlay解锁全功能，仅支持6.3.2及以上版本
+Author: Netskao
+Name: ImgPlay Crack-Rootless
+
+Package: netskao.injectipa-rootless
+Version: 1.4-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 3508
+Depends: firmware (>= 15.0)
+Filename: ./debs/4801.deb
+Size: 971744
+MD5sum: ba944ee8a6de94a007ed0eee7232e980
+SHA1: f63c8758c5ed70df73e681984ce8e438d88ba52b
+SHA256: 68694e280efb2f8338bd796f83886fca878e57a6c6e5676b436e84a5bf94f886
+Section: Netskao-Tweaks
+Description: injectipa是一款命令行一键注入dylib到ipa工具. 用法: injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可), 其它参数执行injectipa查看即可, 注入完成后的IPA需要签名使用
+Author: Netskao
+Name: injectipa-Rootless
+
+Package: netskao.limneoscrack-rootless
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/4342.deb
+Size: 10360
+MD5sum: 199fd088010d0e8b66f0ec646a1cec0e
+SHA1: aff912ed17b5d736eeaef4d93b11cfd26dccf038
+SHA256: b6d7f9a6ccbb5cd242623abd3a9deea5f07652ed80353a514a299ff9f803c73c
+Section: Netskao-Cracks
+Description: 解锁Limneos所有插件全功能
+Author: Netskao
+Name: Limneos Crack-Rootless
+
+Package: netskao.mgtvnoads-rootless
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 376
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/4586.deb
+Size: 84010
+MD5sum: 69b915ef0d8cca13f9c71da1d55bdd9b
+SHA1: 678325740dba8484d98826ce1fd62fc5cbb61ba6
+SHA256: fae2976d37f4e67dd955dc7913aee35b969219556509c808a88ccbd5c1236485
+Section: Netskao-NoAds
+Description: 芒果TV去除启动广告，去除暂停广告，去除悬浮广告等
+Author: Netskao
+Name: 芒果TV NoAds-Rootless
+
+Package: netskao.perfectxtime-rootless
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/4250.deb
+Size: 8556
+MD5sum: e363071be2099f2e0c7a3b397f6e43e9
+SHA1: 83a2ca058b96c0d7aba769966a465f25cbc412bc
+SHA256: aee6459e06d4b4a1afcf9870fe4293618ffa9a1e2b697aee6825e0391824006e
+Section: Netskao-Tweaks
+Description: PerfectXTime修改于PerfectTimeXS，修复13之后的小问题，无设置，仅时间+星期格式，纯自用，录屏时自动恢复默认时间，以免错位
+Author: Netskao
+Name: PerfectXTime-Rootless
+
+Package: netskao.picsartcrack-rootless
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 376
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/4535.deb
+Size: 89264
+MD5sum: 55abb8bff60e1895aab62c30f9a8df73
+SHA1: 536e75bfcc8814f75d76c0f719266424982c0d2c
+SHA256: 27a5717649e697643aea038a790959849d5fd86a4642a81accc78f2f07c4a346
+Section: Netskao-Cracks
+Description: PicsArt美易解锁全功能，仅支持中国区20.7.9及以上版本
+Author: Netskao
+Name: PicsArt Crack-Rootless
+
+Package: netskao.ppxnoads-rootless
+Version: 1.5-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 344
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/4809.deb
+Size: 76858
+MD5sum: cd8bbcd8ef2777558390989bc475c1ba
+SHA1: d5937c693e1c380340907f351ea900cd87804346
+SHA256: 5798d99bce60e4a052fab9afd2e5d3f0ac594a88459e463c18477b7a059ebdfa
+Section: Netskao-NoAds
+Description: 皮皮虾去除启动广告，去除评论广告，去除视频流广告，去除推荐信息流中直播，去除长视频播放完后结尾广告，去除视频流中皮皮虾官方活动横幅，去除随机弹出评分提示和版本内测更新提示，去除部分视频左下角商品广告，去除测试版更新提示，去除AppStore评分提示，去除青少年提示，修改非详情页面时始终显示插眼而非弹幕开关，所有视频可保存为动态壁纸，保存视频和图片去水印，保存视频和图片去水印，使用原始按钮保存即可(播放时和查看时就有水印的视频不属于去水印范围)，仅支持4.7.5及以上版本
+Author: Netskao
+Name: 皮皮虾 NoAds-Rootless
+
+Package: netskao.pullclearnc-rootless
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/4254.deb
+Size: 6678
+MD5sum: 11f2a0886148db5df7ce387eff2134c5
+SHA1: d61e069249208901437801cbc6022d34da8f7db8
+SHA256: 587f3ffa0ab9c640005ae3e05b79617fe2714fd2505ab8091257cfee993c18a0
+Section: Netskao-Tweaks
+Description: Notifications page quick drop down to clean up all notifications
+Author: Netskao
+Name: PullClearNC-Rootless
+
+Package: netskao.pulloverpro
+Version: 2.1.4-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 3528
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debs/4469.deb
+Size: 904894
+MD5sum: a58ee9d5de8044659437807988692ca6
+SHA1: 914e74e9d10c068f6c9f5ed78547d5db1c623914
+SHA256: 847c8bc4f3edf7ff946d4ba029648edfd43da5c0236950d285de3ee5c4777d0e
+Section: Netskao-Tweaks
+Description: A better way to multitask! Fix support for iOS15+
+Author: c1d3r
+Name: PullOver Pro
+
+Package: netskao.qqnotiavatar
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 236
+Depends: firmware (>= 15.0), firmware (<< 16.0), mobilesubstrate
+Filename: ./debs/4747.deb
+Size: 38588
+MD5sum: 680267a9954c95399d2986ac36b379d0
+SHA1: d622082056e9a44244f83f31992126d2b1c6da74
+SHA256: 6f89580655b693b81723a575494664ab105c570d6f62420686d32eecc6007e8d
+Section: Netskao-Tweaks
+Description: Display Notification Avatars for QQ App using iOS15 APIs
+Author: Netskao
+Name: QQNotiAvatar
+
+Package: netskao.showtouch-rootless
+Version: 1.0.4-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 2412
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/4668.deb
+Size: 577928
+MD5sum: 0c49763a1d0d96a52da9dddbbce52983
+SHA1: eb68f571a3970d77730d7a16a75f4b66c59fdfd2
+SHA256: 8943576a6008ea4a454179a51ec14816abc1d489307e06a9b36d43621a42c3c2
+Section: Netskao-Tweaks
+Description: Shows where you touch the screen
+Author: LonestarX
+Name: ShowTouch-Rootless
+
+Package: netskao.smallbanners-rootless
+Version: 1.2-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1444
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: it.dreamcode.picobanners2, netskao.picobanners2
+Filename: ./debs/4729.deb
+Size: 366356
+MD5sum: f33f49f35ef89d87b99b356961a721ac
+SHA1: 29bcd7b05e306300bc251d41e1aba41684d0ca33
+SHA256: 980ef5b9a783747eb952fc7b83c4b1928044c577e7c60a45a55212df1a7b6d62
+Section: Netskao-Tweaks
+Description: Small Notification Banners
+Author: Netskao
+Name: SmallBanners-Rootless
+
+Package: netskao.storeswitchaccounts-rootless
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 232
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/4755.deb
+Size: 51402
+MD5sum: fe7bfdab740bd7c51f1085132a0170e1
+SHA1: c33cb8822095c20729709adaf71eb06bbe065f23
+SHA256: 243351a38debc30f465bfd205e9e972a2a84c1e86ad59e77b63dc20fee6b1a63
+Section: Netskao-Tweaks
+Description: Conveniently switch between logged-in accounts, long press the desktop AppStore icon to switch
+Author: Netskao
+Name: StoreSwitchAccounts-Rootless
+
+Package: netskao.tinyccmodules-rootless
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 212
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/4314.deb
+Size: 31216
+MD5sum: 2abe3478dbf5a88a5dc07599f7b7b10e
+SHA1: 5d074dfe792646e90e2b40209db05a95c1809e19
+SHA256: bbd02cf36cdea0bc1957a397056d53ad3df56761506043f9644a2f2453391bcf
+Section: Netskao-Tweaks
+Description: Tiny CCModules. TinyDisplayModule and TinyMediaAudioModule
+Author: Netskao
+Name: TinyCCModules-Rootless
+
+Package: netskao.twitternoads-rootless
+Version: 1.4-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 440
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/4272.deb
+Size: 100580
+MD5sum: e785d50f4059d63daa60ac3fb7352034
+SHA1: d6ed12656bcf349cc243f0ffa187de08d5714d33
+SHA256: eb6d4a07cb9182310aefbffadac73bbf6f53fd11f4b557e674a451e5e062241e
+Section: Netskao-NoAds
+Description: Twitter去除信息流中广告，去除搜索页面趋势信息流中广告，去除左侧中的广告选项和专业版选项，去除首页顶部视频和空间，禁用推特自定义字体，禁用链接跳转检查，修改搜索历史记录仅显示5条为显示所有，增加喜欢或撤销喜欢推文二次确定，增加瀑布流按钮保存视频或图片至相册，仅支持9.39及以上版本
+Author: Netskao
+Name: Twitter NoAds-Rootless
+
+Package: netskao.vscocrack-rootless
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 408
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/4572.deb
+Size: 92614
+MD5sum: 0eec01620dbc89f3ece6d001e0de1380
+SHA1: 755fb4ec25f31e977e88689dfa747b5809d305bb
+SHA256: eb9164a3d70ef4eddb21462787c250794148fb4ca6a09dd76220d675f661c8a7
+Section: Netskao-Cracks
+Description: VSCO解锁全功能，仅支持316.0.0及以上版本
+Author: Netskao
+Name: VSCO Crack-Rootless
+
+Package: netskao.wcpureextension-rootless
+Version: 4.2-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 19660
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: netskao.wechatpurification-rootless
+Replaces: netskao.wechatpurification-rootless
+Provides: netskao.wechatpurification-rootless
+Filename: ./debs/4841.deb
+Size: 7090662
+MD5sum: 409e534a7d04b126f6c0fa20015b96c7
+SHA1: 4ff4186ff8f8e48ef814ea2a58f813024caa103f
+SHA256: e54b58ab7b139c4d4cb0f7518d96bfa2ebb89eb3f333198fc69f6bb7867ad8b4
+Section: Netskao-Tweaks
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Author: Netskao
+Name: 微信净化-Rootless
+
+Package: netskao.wechatnotiavatar
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1140
+Depends: firmware (>= 15.0), firmware (<< 16.0), mobilesubstrate
+Filename: ./debs/4746.deb
+Size: 222304
+MD5sum: d895a83e342f4c5795515138eeaee3d6
+SHA1: 421b4fb578b15a54c0915f359e6eeebf923a758c
+SHA256: eab0c6ffcc9c434ac14174c48390b39cc14b75635738d0c7a7c888b14c7af817
+Section: Netskao-Tweaks
+Description: Display Notification Avatars for WeChat App using iOS15 APIs
+Author: Netskao
+Name: WeChatNotiAvatar
+
+Package: netskao.wechatscan-rootless
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 160
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/4296.deb
+Size: 16256
+MD5sum: 3fcb001becf21af0f9b1beec88730160
+SHA1: 9d280f9170f1b1736f81b6759627c9ff738e6aa8
+SHA256: 98aa5266b0b9beccea4f468271f8a0f7d0a8b3f123e02e5b2ab473037dfc635d
+Section: Netskao-Tweaks
+Description: 通过控制中心快捷打开微信扫一扫，设置-控制中心-自定控制内添加后使用
+Author: Netskao
+Name: WeChatScan-Rootless
+
+Package: netskao.weibonoads-rootless
+Version: 1.9-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 156
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/4803.deb
+Size: 30524
+MD5sum: 50fe4a9b37301265e7e7146404c70094
+SHA1: 1285ff72c600734a717e08e86be6d71f1126e376
+SHA256: 0985c353b4712fe7ff39580a94f4f611410dbb78b852eafc5fef55bb186a2f73
+Section: Netskao-NoAds
+Description: 微博去除启动广告, 去除各种信息流中广告, 仅支持微博13.9.0及以上版本
+Author: Netskao
+Name: 微博 NoAds-Rootless
+
+Package: netskao.wrecycrack-rootless
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 376
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/4558.deb
+Size: 83948
+MD5sum: 1084cee0b84d633530e6bee5bacfff4d
+SHA1: ab20e225fb669e626338d80a3ba785f202996f5a
+SHA256: da87df206f5a15b10f4896022b883da6b17673fb47114eb3e1e570247550402e
+Section: Netskao-Cracks
+Description: 无染二次元去除所有广告
+Author: Netskao
+Name: 无染二次元 NoAds-Rootless
+
+Package: netskao.xhsnoads-rootless
+Version: 1.3-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 392
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/4797.deb
+Size: 89512
+MD5sum: 80c4284c671604a4265d0fbc469971b9
+SHA1: 94e0ad4db8fc6fc06d3b799c9fb3b14f60773bf3
+SHA256: 7c3ec34e7b82b891f42f5011036dfac8555417c233ffa9be4080ea7b774f43f8
+Section: Netskao-NoAds
+Description: 小红书去除启动广告, 去除信息流视频流广告, 修改原始按钮保存无水印视频和图片和live图和评论区图片, 解除部分视频无法下载, 添加长按文案快捷复制作者名或文案, 仅支持8.5及以上版本
+Author: Netskao
+Name: 小红书 NoAds-Rootless
+
+Package: zp.stopautolaunchapps
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zp.stopautolaunchapps_1.0.2_iphoneos-arm64.deb
+Size: 3572
+MD5sum: ef05cccf8a30f258fc65186da8c3c1ff
+SHA1: b307f8200c011e20844e0d040b3ca0d6d8a2edea
+SHA256: 6763becad507b997d3c6ff12503dcc5e476296b6cfa15a6ded8b72837b67b8fa
+Section: Tweaks
+Description: 禁用ios热启动神经网络引擎,别在后台热加载app咯!
+ - 优点:节约内存,少杀后台.
+ - 玄学:减少重启概率
+Author: zqbb
+Name: 听我说谢谢你 - rootless
+Sileodepiction: https://rootless.zqbb.cf/web/zp.stopautolaunchapps
 
