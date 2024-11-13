@@ -1,0 +1,16 @@
+Package: netskao.3dnetworkfixer-rootless
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 496
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/4306.deb
+Size: 118434
+MD5sum: 76d03231e676d1c7ec3707d90618d792
+SHA1: 2953dfc43de7101dcca3bc58a8d4ac7f8e78d277
+SHA256: 5ef8f7335a2cb5421337540518ba62e342cbf2df78a5ea5f99e1d8faf1a77fe4
+Section: Netskao-Tweaks
+Description: 3D desktop menu, quick fix for the app networking permissions, Supports iOS13-iOS15
+Author: Netskao
+Name: 3DNetworkFixer-Rootless
+
